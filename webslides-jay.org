@@ -131,10 +131,10 @@ manage.
 #+END_EXPORT
 
 ** Covers                              :slide:background:aligncenter:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/california-mountains.jpg]]
+[[./webslides/static/images/webslides-images/california-mountains.jpg]]
 
 ** California :slide:background:bgblack:aligncenter:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/yosemite.jpg]]
+[[./webslides/static/images/webslides-images/yosemite.jpg]]
 
 #+BEGIN_EXPORT html
 <p class="text-shadow">
@@ -162,10 +162,10 @@ manage.
 #+END_EXPORT
 
 ** WebSlides is about *telling the story*, and sharing it in a beautiful way. :slide:wrapsize60:background:dark:bggradientv:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/golden-gate-bridge.jpg]]
+[[./webslides/static/images/webslides-images/golden-gate-bridge.jpg]]
 
 ** *Hotel Daenerys*                      :slide:alignright:size50:bgtransdark:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/hotel-danerys.jpg]]
+[[./webslides/static/images/webslides-images/hotel-danerys.jpg]]
 
 The Daenerys has facilities such as a 24-hour front desk, an elevator
 with access to all rooms, and a terrace with a garden where guests can
@@ -176,17 +176,17 @@ enjoy breakfast during the summer.
 #+END_EXPORT
 
 ** Summer :slide:wrap:background:bgblack:aligncenter:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/summer.jpg]]
+[[./webslides/static/images/webslides-images/summer.jpg]]
 
 The best places at the best price.
 
 ** Hidden headline :slide:wrap:background:bgblack:wrap:hiddenheadline:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/motorcycle.jpg]]
+[[./webslides/static/images/webslides-images/motorcycle.jpg]]
 
 *$975*
 
 ** Living on Mars :slide:wrap:background:bgblack:slidetop:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/mars.jpg]]
+[[./webslides/static/images/webslides-images/mars.jpg]]
 
 Paula Chan, CEO of SpaceY.
 
@@ -202,12 +202,12 @@ Paula Chan, CEO of SpaceY.
 #+END_EXPORT
 
 ** *PROBLEM & SOLUTION* :slide:wrap:background:slidetop:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/record-player.jpg]]
+[[./webslides/static/images/webslides-images/record-player.jpg]]
 
 The history of the music industry is also the story of the development of technology.
 
 ** *The application of geographic mapping to data* :slide:bgblack:slidebottom:inverted:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/earthscape.jpg]]
+[[./webslides/static/images/webslides-images/earthscape.jpg]]
 
 LOCATION INTELLIGENCE
 
@@ -529,7 +529,7 @@ or any light.
 
 
 ** *Bonsai* :slide:fullscreen:card50:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/bonsai.jpg]]
+[[./webslides/static/images/webslides-images/bonsai.jpg]]
 
 *Bonsai is a Japanese art form using trees grown in containers --- .fullscreen > .card-50.*
 
@@ -612,12 +612,12 @@ owners.
 
 #+END_EXPORT
 ** 2,356,478 :slide:background:bgblack:aligncenter:wrap:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/watch.jpg]]
+[[./webslides/static/images/webslides-images/watch.jpg]]
 
 downloads in first 72 hours
 
 ** E1,000,000                          :slide:bgblack:slidebottom:background:wrap:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/forest.jpg]]
+[[./webslides/static/images/webslides-images/forest.jpg]]
 
 *We're working to protect up to a million acres of sustainable forest.*
 #+BEGIN_EXPORT html
@@ -753,7 +753,7 @@ Watch TV shows anytime, anywhere
 [[./webslides/static/images/logos/netflix.svg]]
 
 ** Get 8 weeks free :slide:frame:bgred:background:dark:wrap:cta:overlay:
-[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/TV.jpg]]
+[[./webslides/static/images/webslides-images/TV.jpg]]
 
 ** *Quotes* :slide:
    :PROPERTIES:
@@ -1023,15 +1023,17 @@ Sometimes it's safest to add an "empty" heading at the end of your document to m
 #+HTML_HEAD_EXTRA:
 
 
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/jay-org-html-slideshow/src/css/common.css" />
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/jay-org-html-slideshow/src/css/projection.css" media="projection" />
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/jay-org-html-slideshow/src/css/presenter.css" media="presenter" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./src/css/common.css" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./src/css/projection.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./src/css/presenter.css" media="presenter" />
 
 
 
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/base.css" media="projection" />
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/colors.css" media="projection" />
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/svg-icons.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/org-html-webslides.css" media="projection" />
+
 #+HTML_HEAD_EXTRA: <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
 
 #+BEGIN_EXPORT html
@@ -1070,7 +1072,7 @@ Sometimes it's safest to add an "empty" heading at the end of your document to m
 
 
 #+BEGIN_EXPORT HTML
-<script type="text/javascript" src="/Users/jay/Dropbox/github/jay-org-html-slideshow/out/development/org-html-slideshow.js"></script>
+<script type="text/javascript" src="./out/development/org-html-slideshow.js"></script>
 #+END_EXPORT
 
 # Local Variables:
