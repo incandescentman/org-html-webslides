@@ -1,0 +1,7 @@
+/out
+*~
+#*
+/.lein*
+/target
+*.DS_Store
+/slideshows

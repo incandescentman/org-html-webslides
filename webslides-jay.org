@@ -1,0 +1,1051 @@
+#+TITLE: Example Presentation
+#+AUTHOR: Stuart Sierra
+#+BEGIN_EXPORT HTML
+<p>Type <strong>T</strong> to begin the slide show.</p>
+#+END_EXPORT
+
+
+
+* Intro
+
+** Create a stylish web presence easily :slide:wrap:aligncenter:
+The interface is your brand
+
+** *WebSlides is really easy* :slide:grid:verticalalign:
+Each parent =<section>= in the #webslides element is an individual slide.
+
+Code looks neat, pure. It uses *intuitive markup* with popular naming
+conventions. There's no need to overuse classes or nesting. Based
+on [[https://github.com/jennschiffer/SimpleSlides][SimpleSlides]], by [[http://jennmoney.biz][Jenn Schiffer]]. *Tutorials*: [[../demos/components.html][Components]] · [[../demos/classes.html][Classes]].
+
+#+BEGIN_EXAMPLE html
+    <article id="webslides">
+      <!-- Slide 1 -->
+      <section>
+        <h1>Design for trust</h1>
+      </section>
+      <!-- Slide 2 -->
+      <section class="bg-primary">
+        <div class="wrap">
+          <h2>.wrap = container (width: 90%)</h2>
+        </div>
+      </section>
+    </article>
+#+END_EXAMPLE
+
+** Welcomes :slide:wrap:size50:
+*WebSlides* is an open source tool for telling stories.
+Make it simple, but significant.
+
+-  [[https://twitter.com/webslides][Twitter]]
+-  [[https://dribbble.com/tags/webslides][Dribbble]]
+-  [[https://github.com/jlantunez/webslides][Github]]
+
+** How to Tell Your Story? :slide:wrap:size50:frame:textserif:
+Stories have the power to change the world. WebSlides helps you write
+better content, faster. Your slides are there to support your story.
+Choose words wisely, create meaning with them, keep it simple.
+
+** *Why WebSlides?* Good karma and productivity. :slide:wrap:size60:bgwhite shadow:fancylist:
+1. We're web people.
+   There're excellent presentation tools out there. WebSlides is about telling the story, and sharing it in a beautiful way. Hypertext and clean code as narrative elements.
+2. Work better, faster.
+   Designers, marketers, and journalists can now focus on the content. Simply [[https://webslides.tv/demos][choose a demo]] and customize it in minutes.
+
+** *Why WebSlides?*                      :slide:size50:
+*There are amazing presentation tools out there.*
+
+Everyone loves a good story. WebSlides is about *good karma*. This is
+about telling the story, and sharing it in a beautiful way. How? Making
+HTML presentations easy. Hypertext, clean code, and beauty as narrative
+elements.
+
+** *HTML Presentations* Made Easy :slide:wrap:ctacover:
+
+#+BEGIN_EXPORT html
+<p class="alignright">
+        <a class="button" href="https://webslides.tv/webslides-latest.zip" title="Download WebSlides">
+         <svg class="fa-cloud-download">
+          <use xlink:href="#fa-cloud-download"></use>
+         </svg>
+         WebSlides
+        </a>
+        <span class="try"><a href="https://webslides.tv/demos" title="WebSlides Demos">Demos</a> &middot; <a href="https://github.com/webslides/webslides" title="Github">Github</a></span>
+       </p>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<ul class="flexblock features">
+       <li>
+        <div>
+         <h2><span>100%</span> customizable</h2>
+         Clean markup.
+        </div>
+       </li>
+       <li>
+        <div>
+         <h2>
+          <svg class="fa-heart-o">
+           <use xlink:href="#fa-heart-o"></use>
+          </svg>
+          Good Karma
+         </h2>
+         Just the right features.
+        </div>
+       </li>
+       <li>
+        <div>
+         <h2>
+          <svg class="fa-code">
+           <use xlink:href="#fa-code"></use>
+          </svg>
+          Prototype faster
+         </h2>
+         Design landings, portfolios...
+        </div>
+       </li>
+      </ul>
+#+END_EXPORT
+
+**  Call to Action
+[[/Users/jay/Dropbox/github/webslides/static/images/iphone-hand.png]]
+
+Make secure purchases in stores, in apps, and now on the web. The safer
+way to pay.
+
+** Cari is your best friend :slide:
+[[/Users/jay/Dropbox/github/webslides/static/images/android.png]]
+
+*Your life will be more complete.*
+
+Cari makes connections based on your relationships, uses humor, and is
+eager to learn more about your world and how to make your life easier to
+manage.
+
+** *Covers* :slide:
+
+** *California*
+#+BEGIN_EXPORT html
+<p class="text-shadow">
+       <svg class="fa-map-marker">
+        <use xlink:href="#fa-map-marker"></use>
+       </svg>
+       Yosemite National Park.
+      </p>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<footer>
+      <div class="wrap">
+       <p>
+        <span class="alignleft"> <a href="#" title="Instagram">
+        <img class="whitelogo" src="../static/images/logos/airbnb.svg" alt="Airbnb">
+        </a></span>
+        <span class="alignright">
+        <a href="#" class="badge-ios" title="iOS App">iOS app</a>
+        <a href="#" class="badge-android" title="Android app">Android app</a>
+        </span>
+       </p>
+      </div>
+     </footer>
+#+END_EXPORT
+
+** WebSlides is about *telling the story*, and sharing it in a beautiful :slide:
+way.
+
+*** *Hotel Daenerys* :slide:
+The Daenerys has facilities such as a 24-hour front desk, an elevator
+with access to all rooms, and a terrace with a garden where guests can
+enjoy breakfast during the summer.
+
+#+BEGIN_EXPORT html
+<p class="aligncenter"><a class="button" href="#">More info</a></p>
+#+END_EXPORT
+** Summer
+The best places at the best price.
+
+** Hidden headline
+*$975*
+
+** Living on Mars                      :slide:
+Paula Chan, CEO of SpaceY.
+
+#+BEGIN_EXPORT html
+<footer>
+      <div class="wrap">
+       <p>
+        <span class="alignright"><img class="whitelogo" src="../static/images/logos/nyt.svg" alt="The New York Times"></span>
+       </p>
+      </div>
+      <!-- .end .wrap -->
+     </footer>
+#+END_EXPORT
+
+** *PROBLEM & SOLUTION*
+The history of the music industry is also the story of the development of technology.
+
+** Location Intelligence :slide:bg-black:slide-bottom:
+
+** *The application of geographic mapping to data* :slide:
+
+** *Abouts & Teams* :slide:wrap:aligncenter:
+
+** ul.flexblock.steps                  :slide:
+
+#+BEGIN_EXPORT html
+<ul class="flexblock steps">
+       <!-- li>a? Add blink = <ul class="flexblock steps blink">-->
+       <li>
+        <span>
+         <svg class="fa-heartbeat">
+          <use xlink:href="#fa-heartbeat"></use>
+         </svg>
+        </span>
+        <h2>01. Passion</h2>
+        <p>When you're really passionate about your job, you can change the world.</p>
+       </li>
+       <li>
+        <div class="process step-2"></div>
+        <span>
+         <svg class="fa-magic">
+          <use xlink:href="#fa-magic"></use>
+         </svg>
+        </span>
+        <h2>02. Purpose</h2>
+        <p>Why does this business exist? How are you different? Why matters?</p>
+       </li>
+       <li>
+        <div class="process step-3"></div>
+        <span>
+         <svg class="fa-balance-scale">
+          <use xlink:href="#fa-balance-scale"></use>
+         </svg>
+        </span>
+        <h2>03. Principles</h2>
+        <p>Leadership through usefulness, openness, empathy, and good taste.</p>
+       </li>
+       <li>
+        <div class="process step-4"></div>
+        <span>
+         <svg class="fa-cog">
+          <use xlink:href="#fa-cog"></use>
+         </svg>
+        </span>
+        <h2>04. Process</h2>
+        <ul>
+         <li>Useful</li>
+         <li>Easy</li>
+         <li>Fast</li>
+         <li>Beautiful</li>
+        </ul>
+       </li>
+      </ul>
+#+END_EXPORT
+
+
+** FAQs                                :slide:2column:
+WebSlides is an open source solution by [[https://twitter.com/jlantunez][@jlantunez]]. If you have additional questions, [[https://twitter.com/webslides][get in touch!]]
+
+#+BEGIN_EXPORT HTML
+  <div class="column">
+#+END_EXPORT
+
+*Why WebSlides?*
+There are excellent presentation tools out there. WebSlides is about good karma and sharing content. Hypertext, clean code, and beauty as narrative elements.
+
+*Is WebSlides a framework?*
+We're all tired of heavy CSS frameworks. WebSlides is a starting point that provides basic [[../demos/components.html][structural components]] and a scalable [[../demos/classes.html][CSS architecture]].
+
+*What can I do with WebSlides?*
+WebSlides is a cute solution for making HTML presentations, landings, and portfolios. [[../demos/components.html#slide=15][Put content wherever you want]], add [[../demos/components.html#slide=98][background images]], [[../demos/components.html#slide=101][videos]]...
+
+*How easy is WebSlides?*
+You can create your own presentation instantly. Just a basic knowledge of HTML and CSS is required. Simply choose a demo and customize it.
+
+#+BEGIN_EXPORT HTML
+ </div>
+#+END_EXPORT
+
+
+** Why WebSlides? :slide:
+   :PROPERTIES:
+   :CUSTOM_ID: why-webslides-2
+   :END:
+~.text-cols (2 columns)~.
+
+#+BEGIN_EXPORT HTML
+  <div class="text-cols">
+#+END_EXPORT
+
+Everyone loves a good story. WebSlides is about sharing and *good
+karma*. This is about telling the story, and sharing it in a beautiful
+way. How? Making HTML presentations easy. Hypertext, clean code, and
+beauty as narrative elements.
+
+*WebSlides help you build a culture of innovation and excellence*. How
+to manage a design-driven organization? Leadership through usefulness,
+openness, empathy, and good taste. When you're really passionate about
+your job, you can change the world.
+
+#+BEGIN_EXPORT html
+<ul class="flexblock metrics">
+       <li>
+        <div>
+         <svg class="fa-twitter">
+          <use xlink:href="#fa-twitter"></use>
+         </svg>
+         @WebSlides
+        </div>
+       </li>
+       <li>
+        <div>
+         <svg class="fa-github">
+          <use xlink:href="#fa-github"></use>
+         </svg>
+         Contribute
+        </div>
+       </li>
+       <li>
+        <div>
+         <svg class="fa-phone">
+          <use xlink:href="#fa-phone"></use>
+         </svg>
+         Call us at 555.345.6789
+        </div>
+       </li>
+      </ul>
+#+END_EXPORT
+
+*** Team :slide:
+#+BEGIN_EXPORT html
+<ul class="flexblock gallery">
+       <li>
+        <a href="#">
+         <figure>
+          <img alt="Thumbnail " src="https://source.unsplash.com/E6MWxCjNhYs/800x600">
+          <figcaption>
+           <h2>Alicia Jiménez</h2>
+           <p>Founder & CEO</p>
+          </figcaption>
+         </figure>
+        </a>
+       </li>
+       <li>
+        <a href="#">
+         <figure>
+          <img alt="Thumbnail" src="https://source.unsplash.com/6anudmpILw4/800x600">
+          <figcaption>
+           <h2>Sam Trololovitz</h2>
+           <p>Master of nothing</p>
+          </figcaption>
+         </figure>
+        </a>
+       </li>
+       <li>
+        <a href="#">
+         <figure>
+          <img alt="Thumbnail" src="https://source.unsplash.com/IFxjDdqK_0U/800x600">
+          <figcaption>
+           <h2>Erin Gustafson</h2>
+           <p>VP of Design</p>
+          </figcaption>
+         </figure>
+        </a>
+       </li>
+      </ul>
+#+END_EXPORT
+
+*** Team :slide:
+
+   #+BEGIN_EXPORT HTML
+     <div class="overlay">
+   #+END_EXPORT
+
+#+BEGIN_EXPORT html
+<ul class="flexblock gallery">
+       <li>
+        <a href="#">
+         <figure>
+          <img alt="Thumbnail " src="https://source.unsplash.com/IFxjDdqK_0U/800x600">
+          <div class="overlay">
+           <h2>Mila Yang</h2>
+           <p>The Boss</p>
+          </div>
+         </figure>
+        </a>
+       </li>
+       <li>
+        <a href="#">
+         <figure>
+          <img alt="Thumbnail" src="https://source.unsplash.com/zhkTCCmD4xI/800x600">
+          <div class="overlay">
+           <h2>Shin Ahmed</h2>
+           <p>CTO</p>
+          </div>
+         </figure>
+        </a>
+       </li>
+       <li>
+        <a href="#">
+         <figure>
+          <img alt="Thumbnail" src="https://source.unsplash.com/uPGOEbjbVGA/800x600">
+          <div class="overlay">
+           <h2>Julia Porter</h2>
+           <p>Digital Designer</p>
+          </div>
+         </figure>
+        </a>
+       </li>
+      </ul>
+#+END_EXPORT
+
+   #+BEGIN_EXPORT HTML
+     </div>
+   #+END_EXPORT
+
+** *Features & Benefits* :slide:
+
+** Features :slide:
+#+BEGIN_EXPORT html
+<ul class="flexblock features">
+       <li>
+        <div>
+         <h2>
+          <span>&rarr;</span>
+          Simple Navigation
+         </h2>
+         with arrow keys and swipe.
+        </div>
+       </li>
+       <li>
+        <div>
+         <h2>
+          <svg class="fa-link">
+           <use xlink:href="#fa-link"></use>
+          </svg>
+          Permalinks
+         </h2>
+         Go to a specific slide.
+        </div>
+       </li>
+       <li>
+        <div>
+         <h2>
+          <svg class="fa-clock-o">
+           <use xlink:href="#fa-clock-o"></use>
+          </svg>
+          Slide Counter
+         </h2>
+         Current/Total number
+        </div>
+       </li>
+       <li>
+        <div>
+         <h2>
+          <span>40<sup>+</sup></span>
+          Beautiful Components
+         </h2>
+         Covers, cards, quotes...
+        </div>
+       </li>
+       <li>
+        <div>
+         <h2>
+          <svg class="fa-text-height">
+           <use xlink:href="#fa-text-height"></use>
+          </svg>
+          Vertical Rhythm
+         </h2>
+         Use multiples of 8.
+        </div>
+       </li>
+       <li>
+        <div>
+         <h2>
+          <span>500<sup>+</sup></span>
+          SVG Icons
+         </h2>
+         Font Awesome Kit.
+        </div>
+       </li>
+      </ul>
+#+END_EXPORT
+
+** Features :slide:bgbrown:
+*Feature 1*
+Test your web and mobile designs, and quickly incorporate user feedback.
+
+*Benefit 2*
+When you're really passionate about your job, you can change the world.
+
+*Design Better*
+The most popular elements commonly used for creating landings and
+portfolios.
+
+
+[[../static/images/iphone.png]]
+
+
+* iPhone 7
+*3D Touch, 12MP photos, and 4K video. Centering vertically using grid.vertical-align*
+
+Every iPhone they have made was built on the same belief. That a phone
+should be more than a collection of features. That, above all, a phone
+should be absolutely simple, beautiful, and magical to use.
+
+** iPhone 7 :slide:
+*A phone should be absolutely simple, beautiful, and magical to use. 3D
+Touch, 12MP photos, and 4K video.*
+
+1. Benefit 1
+   The easiest way to make HTML presentations. Incredibly versatile. 120+ slides.
+2. Benefit 2
+   The art of storytelling. Inspire teams, fascinate customers, and gain attention from investors.
+
+** A Phone by Google :slide:
+Pixel's camera lets you take brilliant photos in low light, bright light
+or any light.
+
+-   *Client:* Google (2016).
+-   *Services:* Industrial Design.
+-   *Website:* [[https://madeby.google.com/phone/][madeby.google.com/phone]]
+
+
+** *Bonsai* :slide:fullscreen:card50:
+*Bonsai is a Japanese art form using trees grown in containers ---
+.fullscreen > .card-50.*
+
+Similar practices exist in other cultures, including the Chinese
+tradition of penjing from which the art originated, and the miniature
+living landscapes of Vietnamese hòn non bộ.
+
+** *Metrics & Data* :slide:
+
+
+** WebSlides help you build a culture of innovation. :slide:
+~.flexblock.metrics~ All content is for demo purposes only, to show an
+example of a live site. All images are the copyright of their respective
+owners.
+
+-  Founded *1986*
+-  *120+* Prebuilt Slides
+-  32M Downloads
+-  Revenue: $72M
+
+** Metrics                             :slide:
+#+BEGIN_EXPORT html
+<ul class="flexblock metrics border">
+       <li> Founded
+        <span>1972</span>
+       </li>
+       <li>
+        <span>
+         <svg class="fa-users">
+          <use xlink:href="#fa-users"></use>
+         </svg>
+        </span>
+        24M Subscribers
+       </li>
+       <li>
+        <span>
+         <svg class="fa-line-chart">
+          <use xlink:href="#fa-line-chart"></use>
+         </svg>
+        </span>
+        Revenue: $16M
+       </li>
+       <li>
+        Monthly Growth
+        <span>64%</span>
+       </li>
+       <li>
+        <span>
+         <svg class="fa-building-o">
+          <use xlink:href="#fa-building-o"></use>
+         </svg>
+        </span>
+        8 Offices
+       </li>
+       <li>
+        <span>
+         <svg class="fa-smile-o">
+          <use xlink:href="#fa-smile-o"></use>
+         </svg>
+        </span>
+        48 Employees
+       </li>
+       <li>
+        <span>
+         <svg class="fa-usd">
+          <use xlink:href="#fa-usd"></use>
+         </svg>
+        </span>
+        EBITDA: $2,4M
+       </li>
+       <li>
+        <span>
+         <svg class="fa-university">
+          <use xlink:href="#fa-university"></use>
+         </svg>
+        </span>
+        Bank: $32M
+       </li>
+      </ul>
+
+#+END_EXPORT
+** 2,356,478 :slide:
+downloads in first 72 hours
+
+** 1,000,000 :slide:
+*We're working to protect up to a million acres of sustainable forest.*
+#+BEGIN_EXPORT html
+<p>
+        <svg class="large fa-tree">
+         <use xlink:href="#fa-tree"></use>
+        </svg>
+       </p>
+
+#+END_EXPORT
+
+** *Pricing & Offers* :slide:
+
+** Basic                               :slide:
+#+BEGIN_EXPORT html
+<ul class="flexblock plans blink">
+       <li>
+        <a href="#" title="Register">
+         <h2>Basic</h2>
+         <div>
+          <span class="price">Free</span>
+          <p>Good karma. Just the right features. 100% customizable. Make it yours.</p>
+          <span class="button ghost">Select</span>
+         </div>
+        </a>
+       </li>
+       <li>
+        <a href="#" title="Purchase">
+         <h2>Medium</h2>
+         <div>
+          <span class="price"><sup>$</sup>4,99 <sup>/month</sup></span>
+          <p>Content is for demo purposes only. Minimum effort, amazing results.</p>
+          <span class="button radius">Buy Now</span>
+         </div>
+        </a>
+       </li>
+       <li>
+        <a href="#" title="Purchase">
+         <h2>Premium <sup>(save 20%)</sup></h2>
+         <div>
+          <span class="price"><sup>$</sup>40 <sup>/year</sup></span>
+          <p>Prototype faster. Create landings and portfolios. Unlimited projects.</p>
+          <span class="button ghost">Select</span>
+         </div>
+        </a>
+       </li>
+      </ul>
+
+#+END_EXPORT
+
+** basic
+#+BEGIN_EXPORT html
+<ul class="flexblock plans blink">
+       <li>
+        <a href="#" title="Register">
+         <h2>Basic</h2>
+         <div>
+          <span class="price">Free</span>
+          <ul>
+           <li>
+            <svg class="fa-check">
+             <use xlink:href="#fa-check"></use>
+            </svg>
+            <strong>Free</strong> forever
+           </li>
+           <li>
+            <svg class="fa-check">
+             <use xlink:href="#fa-check"></use>
+            </svg>
+            <strong>Eternal</strong> sunshine
+           </li>
+           <li>
+            <svg class="fa-check">
+             <use xlink:href="#fa-check"></use>
+            </svg>
+            <strong>Ads</strong>
+           </li>
+          </ul>
+          <span class="button ghost">Select</span>
+         </div>
+        </a>
+       </li>
+       <li>
+        <a href="#" title="Purchase">
+         <h2>Good Karma</h2>
+         <div>
+          <span class="price"><sup>$</sup>40 <sup>/year</sup></span>
+          <ul>
+           <li>
+            <svg class="fa-check">
+             <use xlink:href="#fa-check"></use>
+            </svg>
+            <strong>Exclusive</strong> content
+           </li>
+           <li>
+            <svg class="fa-check">
+             <use xlink:href="#fa-check"></use>
+            </svg>
+            <strong>Unlimited</strong> projects
+           </li>
+           <li>
+            <svg class="fa-check">
+             <use xlink:href="#fa-check"></use>
+            </svg>
+            <strong>Unlimited</strong> users
+           </li>
+          </ul>
+          <span class="button">Select</span>
+         </div>
+        </a>
+       </li>
+      </ul>
+
+#+END_EXPORT
+
+** Choose one plan :slide:
+Simple pricing. No credit card required!
+
+| Plans                                     | Good | Better | Awesome   |
+|-------------------------------------------+------+--------+-----------|
+| Price                                     | Free | $6     | $10       |
+| HD Streaming                              | No   | Yes    | Yes       |
+| Screens you can watch on at the same time | 1    | 2      | Unlimited |
+| Access to exclusive content               | No   | No     | Yes       |
+
+
+** Red :slide:frame:bgred:
+#+END_EXPORT
+
+*$40*
+Watch TV shows anytime, anywhere :slide:
+
+** *Quotes* :slide:
+   :PROPERTIES:
+   :CUSTOM_ID: quotes
+   :END:
+
+#+BEGIN_EXPORT HTML
+  <div class="section">
+#+END_EXPORT
+
+#+BEGIN_EXPORT HTML
+  <div class="wrap">
+#+END_EXPORT
+
+#+BEGIN_EXPORT HTML
+  <div class="content-center">
+#+END_EXPORT
+
+** *Why WebSlides?* :slide:quote:bgwhite:
+   :PROPERTIES:
+   :CUSTOM_ID: why-webslides-3
+   :END:
+
+#+BEGIN_QUOTE
+"I feel guilty as a web designer when I have to use PowerPoint and Keynote. So I made #WebSlides."
+--- @jlantunez
+#+END_QUOTE
+
+** quote :slide:quote:bgblackblue:
+#+BEGIN_QUOTE
+I have always appreciated designers who dare to reinterpret fabrics and proportions, so I follow the Japanese and Belgian designers.
+---  [[https://en.wikipedia.org/wiki/Zaha_Hadid][Zaha Hadid]]
+#+END_QUOTE
+
+** quote :slide:quote:wrap:card50:
+
+#+BEGIN_QUOTE
+  "WebSlides helped us build a culture of innovation and excellence."
+
+  Leonardo da Vinci
+#+END_QUOTE
+
+** quote :slide:quote:bgapple:
+#+BEGIN_QUOTE
+"Some people see innovation as change, but we have never really seen it like that. It's making things better."
+
+--- Tim Cook, CEO of Apple.
+#+END_QUOTE
+
+
+* Media
+** *Embedding Media* :slide:
+
+*** Responsive Videos :slide:youtube:wrap:size60:
+
+[[yt:b4LrTkWq9jU]]
+
+
+#+BEGIN_EXAMPLE
+    <div class="embed">
+     <iframe src="https://www.youtube.com/embed/XjJQBjWYDTs">
+     </iframe>
+    </div>
+#+END_EXAMPLE
+
+*** Fullscreen videos :slide:youtube:fullscreen:
+[[yt:b4LrTkWq9jU]]
+
+** *Every end is a new beginning* :slide:
+#+BEGIN_EXPORT html
+<video autoplay loop muted poster="https://webslides.tv/static/images/peggy.jpg">
+       <source src="https://webslides.tv/static/videos/peggy.mp4" type="video/mp4">
+      </video>
+#+END_EXPORT
+
+
+
+** *Overlay* :slide:overlay:backgroundvideodark:
+
+#+BEGIN_EXPORT html
+<video autoplay loop muted poster="https://webslides.tv/static/images/peggy.jpg">
+       <source src="https://webslides.tv/static/videos/peggy.mp4" type="video/mp4">
+      </video>
+#+END_EXPORT
+
+
+* Org-HTML-Slideshow                                                  :slide:
+
+Make slides from Emacs Org-Mode!
+
+** Making Slides                                                      :slide:
+
+Org-Mode headlines with the =:slide:= tag will become slides.
+
+** Headlines Don't Have to be Slides :slide:
+
+This section doesn't have a =:slide:= tag, so it will *not* become a slide, although it is still part of the exported HTML document.
+
+** Use Lists For Bullets                                              :slide:
+
+- Use Org-Mode lists for bullet points
+- You can make nested bullet lists
+  - With sub-lists
+  - Like this
+
+** Or Low-Level Headings                                              :slide:
+
+**** By default :slide:
+***** Org-Mode headings below level 3 :slide:
+****** Become bullets :slide:
+****** Meaning they *cannot* be slides :slide:
+**** This is configurable :slide:
+***** See [[http://orgmode.org/manual/Export-options.html][Export Options in the Org-Mode manual]] :slide:
+
+** Slides Can Be Nested                                               :slide:
+
+You can use the structure of the Org-Mode document to group your slides.
+
+For example, this slide is a *level-2* Org-Mode heading.
+
+*** Slide Headings Can Be Nested                                      :slide:
+
+This slide is a *level-3* Org-Mode heading, inside the previous one.
+
+* New - support for video and audio
+** Slide with <video> tag                                             :slide:
+#+BEGIN_EXPORT HTML
+<video width="880" preload="auto" controls poster="src/img/poster.jpg">
+  <source src="src/media/video.mp4">
+  Browser doesn't support HTML5 video.
+</video>
+#+END_export
+
+** Slide with <audio> tag                                             :slide:
+#+BEGIN_EXPORT HTML
+<audio preload="auto" controls>
+  <source src="src/media/audio.mp3">
+  Browser doesn't support HTML5 audio.
+</audio>
+#+END_export
+
+
+** Slide with YouTube video                                           :slide:
+
+#+BEGIN_EXPORT HTML
+<iframe class="ytvid" width="800" height="450" src="https://www.youtube.com/embed/9zSVu76AX3I" frameborder="0" allowfullscreen></iframe>
+#+END_export
+
+** Fullscreen YouTube video  :slide:
+
+#+BEGIN_EXPORT HTML
+<div class="video-background">
+  <div class="video-foreground">
+<iframe class="ytvid" width="800" height="450" src="https://www.youtube.com/embed/9zSVu76AX3I" allowfullscreen></iframe>
+
+</div>
+ </div>
+
+
+
+#+END_export
+
+* Presenter Notes                                                     :slide:
+
+- Slides can have presenter notes
+- Add a sub-heading with the =:notes:= tag
+
+** A Slide with Notes                                                 :slide:
+
+- This slide has notes
+- Notes are only visible to presenter
+
+*** Notes                                                             :notes: :slide:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =:notes:= section per slide allowed
+
+* Source Code                                                         :slide:
+
+Use =begin_src/end_src= blocks to include source code.
+
+#+begin_src clojure
+  (defn example []
+    (println "This is sample source code."))
+#+end_src
+
+** Syntax Highlighting                                                :slide:
+
+- Org-Mode HTML export uses [[http://www.emacswiki.org/emacs/Htmlize][htmlize.el]]
+- Code in exported HTML will match your current Emacs theme
+  - Choose a theme that looks good on a projector!
+
+** Syntax Highlighting with CSS Classes                               :slide:
+
+- Set the Emacs variable
+  - =org-export-htmlize-output-type=
+  - to the symbol =css=
+  - (Does not work as a buffer-local variable)
+- Htmlize.el will add SPAN tags with CSS classes
+  - Named for each font face, e.g. =org-comment=
+- Examine HTML output to see class names
+- Add CSS styles to set colors
+
+* Images                                                              :slide:
+
+- Slides can contain images
+  - Any file type a browser can display
+- See also these Emacs variables:
+  - =org-export-html-inline-images=
+  - =org-export-html-inline-image-extensions=
+    - Controls which file types get exported
+- See [[http://orgmode.org/manual/Images-in-HTML-export.html][Images in HTML Export in the Org-Mode manual]].
+
+** Slide with Image                                                   :slide:
+
+Make a =file:= link with the path to the image and no link text.
+
+[[file:example-image.svg]]
+
+This example image is public-domain [[http://openclipart.org/detail/165554/geodesic_dome-by-yoderj][clip art by Josiah / yoderj]].
+
+* Styling                                                             :slide:
+
+- Use CSS styles to control appearance of slides
+- Extra tags on a slide become extra CSS classes on its HTML
+
+** Org-Mode Tag as CSS Class                          :slide:blue_background: :slide:
+
+- This slide has the =:blue_background:= tag
+  - Which is a class defined in =projection.css=
+- Make up your own tags
+  - Add them to the CSS file
+
+* Placing Stylesheets/JavaScript                                      :slide:
+
+Include the stylesheets and JavaScript at the *bottom* of your Org-Mode file.
+
+They must go at the bottom because the Google Closure Library does not support an on-DOM-ready event. See the [[http://groups.google.com/group/closure-library-discuss/browse_thread/thread/1beecbb5d6afcb41/075c536259653946][Closure mailing list discussion]] for an explanation.
+
+** Warning About Hidden Headlines                                     :slide:
+
+Stylesheets and JavaScript will *not* be loaded if the *last* headline in your Org-Mode file is hidden by any of:
+
+- =COMMENT= at the start of the heading
+- =#+COMMENT= at the start of the line
+- =:noexport:= tag, or missing =:export:= tag
+
+See [[http://orgmode.org/manual/Comment-lines.html][Comment lines]] and [[http://orgmode.org/manual/Selective-export.html][Selective export]] in the Org-Mode manual for details.
+
+** The End                                                            :slide:
+
+Sometimes it's safest to add an "empty" heading at the end of your document to make sure the stylesheets and JavaScript are included.
+
+* Setup
+#+OPTIONS: num:nil toc:nil tags:t
+#+TAGS: slide(s)
+
+
+#+HTML_HEAD_EXTRA:
+#+HTML_HEAD_EXTRA:
+#+HTML_HEAD_EXTRA:
+#+HTML_HEAD_EXTRA:
+
+
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/jay-org-html-slideshow/src/css/common.css" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/jay-org-html-slideshow/src/css/projection.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/jay-org-html-slideshow/src/css/presenter.css" media="presenter" />
+
+
+
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/webslides/static/css/base.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/webslides/static/css/colors.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/webslides/static/css/svg-icons.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
+
+#+BEGIN_EXPORT html
+<!-- SOCIAL CARDS (ADD YOUR INFO) -->
+
+  <!-- FACEBOOK -->
+  <meta property="og:url" content="http://your-url.com/permalink"> <!-- EDIT -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="WebSlides Landings: Create your web presence easily"> <!-- EDIT -->
+  <meta property="og:description" content="Create simple, beautiful landing pages with WebSlides. 120+ free slides ready to use."> <!-- EDIT -->
+  <meta property="og:updated_time" content="2017-01-04T16:54:27"> <!-- EDIT -->
+  <meta property="og:image" content="../static/images/share-webslides.jpg" > <!-- EDIT -->
+
+  <!-- TWITTER -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@webslides"> <!-- EDIT -->
+  <meta name="twitter:creator" content="@jlantunez"> <!-- EDIT -->
+  <meta name="twitter:title" content="WebSlides Landings: Create your web presence easily"> <!-- EDIT -->
+  <meta name="twitter:description" content="Create simple, beautiful landing pages with WebSlides. 120+ free slides ready to use."> <!-- EDIT -->
+  <meta name="twitter:image" content="../static/images/share-webslides.jpg"> <!-- EDIT -->
+
+  <!-- FAVICONS -->
+  <link rel="shortcut icon" sizes="16x16" href="../static/images/favicons/favicon.png">
+  <link rel="shortcut icon" sizes="32x32" href="../static/images/favicons/favicon-32.png">
+  <link rel="apple-touch-icon icon" sizes="76x76" href="../static/images/favicons/favicon-76.png">
+  <link rel="apple-touch-icon icon" sizes="120x120" href="../static/images/favicons/favicon-120.png">
+  <link rel="apple-touch-icon icon" sizes="152x152" href="../static/images/favicons/favicon-152.png">
+  <link rel="apple-touch-icon icon" sizes="180x180" href="../static/images/favicons/favicon-180.png">
+  <link rel="apple-touch-icon icon" sizes="192x192" href="../static/images/favicons/favicon-192.png">
+<!-- Android -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#333333">
+
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT HTML
+<script type="text/javascript" src="/Users/jay/Dropbox/github/jay-org-html-slideshow/out/development/org-html-slideshow.js"></script>
+#+END_EXPORT
+
+# Local Variables:
+# org-html-head-include-default-style: nil
+# org-html-head-include-scripts: nil
+# buffer-file-coding-system: utf-8-unix
+# eval: (define-key org-mode-map (kbd ":") 'insert-colon)
+# End:

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Example Presentation</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Stuart Sierra">
+<link rel="stylesheet" type="text/css" href="src/css/common.css" />
+<link rel="stylesheet" type="text/css" href="src/css/projection.css" media="projection" />
+<link rel="stylesheet" type="text/css" href="src/css/presenter.css" media="presenter" />
+</head>
+<body>
+<div id="content">
+<header>
+<h1 class="title">Example Presentation</h1>
+</header><p>Type <strong>T</strong> to begin the slide show.</p>
+
+<div id="outline-container-org955fe06" class="outline-2">
+<h2 id="org955fe06">Org-HTML-Slideshow&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h2>
+<div class="outline-text-2" id="text-org955fe06">
+<p>
+Make slides from Emacs Org-Mode!
+</p>
+</div>
+
+<div id="outline-container-org541f9dd" class="outline-3">
+<h3 id="org541f9dd">Making Slides&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-org541f9dd">
+<p>
+Org-Mode headlines with the <code>:slide:</code> tag will become slides.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a72631" class="outline-3">
+<h3 id="org1a72631">Headlines Don&rsquo;t Have to be Slides</h3>
+<div class="outline-text-3" id="text-org1a72631">
+<p>
+This section doesn&rsquo;t have a <code>:slide:</code> tag, so it will <strong>not</strong> become a slide, although it is still part of the exported HTML document.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org98cf2be" class="outline-3">
+<h3 id="org98cf2be">Use Lists For Bullets&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-org98cf2be">
+<ul class="org-ul">
+<li>Use Org-Mode lists for bullet points</li>
+<li>You can make nested bullet lists
+<ul class="org-ul">
+<li>With sub-lists</li>
+<li>Like this</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org30ee88c" class="outline-3">
+<h3 id="org30ee88c">Or Low-Level Headings&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-org30ee88c">
+</div><ul class="org-ul"><li><a id="org137e5ab"></a>By default<br><ul class="org-ul"><li><a id="orgeaf5fe4"></a>Org-Mode headings below level 3<br><ul class="org-ul"><li><a id="org707d294"></a>Become bullets<br></li>
+<li><a id="org7374651"></a>Meaning they <strong>cannot</strong> be slides<br></li></ul></li></ul></li>
+<li><a id="orgb2ab0d9"></a>This is configurable<br><ul class="org-ul"><li><a id="orgeb1e725"></a>See <a href="http://orgmode.org/manual/Export-options.html">Export Options in the Org-Mode manual</a><br></li></ul></li></ul>
+</div>
+
+<div id="outline-container-orgfea7ca4" class="outline-3">
+<h3 id="orgfea7ca4">Slides Can Be Nested&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-orgfea7ca4">
+<p>
+You can use the structure of the Org-Mode document to group your slides.
+</p>
+
+<p>
+For example, this slide is a <strong>level-2</strong> Org-Mode heading.
+</p>
+</div>
+
+<div id="outline-container-orgb08d17d" class="outline-4">
+<h4 id="orgb08d17d">Slide Headings Can Be Nested&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h4>
+<div class="outline-text-4" id="text-orgb08d17d">
+<p>
+This slide is a <strong>level-3</strong> Org-Mode heading, inside the previous one.
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd2ce848" class="outline-2">
+<h2 id="orgd2ce848">New - support for video and audio</h2>
+<div class="outline-text-2" id="text-orgd2ce848">
+</div><div id="outline-container-org3c801d7" class="outline-3">
+<h3 id="org3c801d7">Slide with &lt;video&gt; tag&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-org3c801d7">
+<video width="880" preload="auto" controls poster="src/img/poster.jpg">
+  <source src="src/media/video.mp4">
+  Browser doesn't support HTML5 video.
+</video>
+</div>
+</div>
+
+<div id="outline-container-orgee790e2" class="outline-3">
+<h3 id="orgee790e2">Slide with &lt;audio&gt; tag&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-orgee790e2">
+<audio preload="auto" controls>
+  <source src="src/media/audio.mp3">
+  Browser doesn't support HTML5 audio.
+</audio>
+</div>
+</div>
+
+
+<div id="outline-container-org33e4b98" class="outline-3">
+<h3 id="org33e4b98">Slide with YouTube video&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-org33e4b98">
+<iframe class="ytvid" width="800" height="450" src="https://www.youtube.com/embed/9zSVu76AX3I" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+
+<div id="outline-container-org3bfd071" class="outline-3">
+<h3 id="org3bfd071">Fullscreen YouTube video&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-org3bfd071">
+<div class="video-background">
+  <div class="video-foreground">
+<iframe class="ytvid" width="800" height="450" src="https://www.youtube.com/embed/9zSVu76AX3I" allowfullscreen></iframe>
+
+</div>
+ </div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org10cecc4" class="outline-2">
+<h2 id="org10cecc4">Presenter Notes&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h2>
+<div class="outline-text-2" id="text-org10cecc4">
+<ul class="org-ul">
+<li>Slides can have presenter notes</li>
+<li>Add a sub-heading with the <code>:notes:</code> tag</li>
+</ul>
+</div>
+
+<div id="outline-container-org4228db7" class="outline-3">
+<h3 id="org4228db7">A Slide with Notes&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-org4228db7">
+<ul class="org-ul">
+<li>This slide has notes</li>
+<li>Notes are only visible to presenter</li>
+</ul>
+</div>
+
+<div id="outline-container-org34a8b3a" class="outline-4">
+<h4 id="org34a8b3a">Notes&#xa0;&#xa0;&#xa0;<span class="tag"><span class="notes">notes</span></span></h4>
+<div class="outline-text-4" id="text-org34a8b3a">
+<ul class="org-ul">
+<li>Presenter notes for this slide</li>
+<li>Not displayed as part of the slide</li>
+<li>Displayed in Presenter Preview window</li>
+<li>Only one <code>:notes:</code> section per slide allowed</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd71a926" class="outline-2">
+<h2 id="orgd71a926">Source Code&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h2>
+<div class="outline-text-2" id="text-orgd71a926">
+<p>
+Use <code>begin_src/end_src</code> blocks to include source code.
+</p>
+
+<div class="org-src-container">
+<pre class="src src-clojure">  (defn example []
+    (println "This is sample source code."))
+</pre>
+</div>
+</div>
+
+<div id="outline-container-orga1f9e35" class="outline-3">
+<h3 id="orga1f9e35">Syntax Highlighting&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-orga1f9e35">
+<ul class="org-ul">
+<li>Org-Mode HTML export uses <a href="http://www.emacswiki.org/emacs/Htmlize">htmlize.el</a></li>
+<li>Code in exported HTML will match your current Emacs theme
+<ul class="org-ul">
+<li>Choose a theme that looks good on a projector!</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgb4e3211" class="outline-3">
+<h3 id="orgb4e3211">Syntax Highlighting with CSS Classes&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-orgb4e3211">
+<ul class="org-ul">
+<li>Set the Emacs variable
+<ul class="org-ul">
+<li><code>org-export-htmlize-output-type</code></li>
+<li>to the symbol <code>css</code></li>
+<li>(Does not work as a buffer-local variable)</li>
+</ul></li>
+<li>Htmlize.el will add SPAN tags with CSS classes
+<ul class="org-ul">
+<li>Named for each font face, e.g. <code>org-comment</code></li>
+</ul></li>
+<li>Examine HTML output to see class names</li>
+<li>Add CSS styles to set colors</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8b09e29" class="outline-2">
+<h2 id="org8b09e29">Images&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h2>
+<div class="outline-text-2" id="text-org8b09e29">
+<ul class="org-ul">
+<li>Slides can contain images
+<ul class="org-ul">
+<li>Any file type a browser can display</li>
+</ul></li>
+<li>See also these Emacs variables:
+<ul class="org-ul">
+<li><code>org-export-html-inline-images</code></li>
+<li><code>org-export-html-inline-image-extensions</code>
+<ul class="org-ul">
+<li>Controls which file types get exported</li>
+</ul></li>
+</ul></li>
+<li>See <a href="http://orgmode.org/manual/Images-in-HTML-export.html">Images in HTML Export in the Org-Mode manual</a>.</li>
+</ul>
+</div>
+
+<div id="outline-container-org85d4d97" class="outline-3">
+<h3 id="org85d4d97">Slide with Image&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-org85d4d97">
+<p>
+Make a <code>file:</code> link with the path to the image and no link text.
+</p>
+
+
+<figure>
+<object type="image/svg+xml" data="example-image.svg" class="org-svg">
+Sorry, your browser does not support SVG.</object>
+
+</figure>
+
+<p>
+This example image is public-domain <a href="http://openclipart.org/detail/165554/geodesic_dome-by-yoderj">clip art by Josiah / yoderj</a>.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgf58126c" class="outline-2">
+<h2 id="orgf58126c">Styling&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h2>
+<div class="outline-text-2" id="text-orgf58126c">
+<ul class="org-ul">
+<li>Use CSS styles to control appearance of slides</li>
+<li>Extra tags on a slide become extra CSS classes on its HTML</li>
+</ul>
+</div>
+
+<div id="outline-container-org8fb6b76" class="outline-3">
+<h3 id="org8fb6b76">Org-Mode Tag as CSS Class&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span>&#xa0;<span class="blue_background">blue_background</span></span></h3>
+<div class="outline-text-3" id="text-org8fb6b76">
+<ul class="org-ul">
+<li>This slide has the <code>:blue_background:</code> tag
+<ul class="org-ul">
+<li>Which is a class defined in <code>projection.css</code></li>
+</ul></li>
+<li>Make up your own tags
+<ul class="org-ul">
+<li>Add them to the CSS file</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org470af29" class="outline-2">
+<h2 id="org470af29">Placing Stylesheets/JavaScript&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h2>
+<div class="outline-text-2" id="text-org470af29">
+<p>
+Include the stylesheets and JavaScript at the <strong>bottom</strong> of your Org-Mode file.
+</p>
+
+<p>
+They must go at the bottom because the Google Closure Library does not support an on-DOM-ready event. See the <a href="http://groups.google.com/group/closure-library-discuss/browse_thread/thread/1beecbb5d6afcb41/075c536259653946">Closure mailing list discussion</a> for an explanation.
+</p>
+</div>
+
+<div id="outline-container-org1dc6b3c" class="outline-3">
+<h3 id="org1dc6b3c">Warning About Hidden Headlines&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-org1dc6b3c">
+<p>
+Stylesheets and JavaScript will <strong>not</strong> be loaded if the <strong>last</strong> headline in your Org-Mode file is hidden by any of:
+</p>
+
+<ul class="org-ul">
+<li><code>COMMENT</code> at the start of the heading</li>
+<li><code>#+COMMENT</code> at the start of the line</li>
+<li><code>:noexport:</code> tag, or missing <code>:export:</code> tag</li>
+</ul>
+
+<p>
+See <a href="http://orgmode.org/manual/Comment-lines.html">Comment lines</a> and <a href="http://orgmode.org/manual/Selective-export.html">Selective export</a> in the Org-Mode manual for details.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcedbffd" class="outline-3">
+<h3 id="orgcedbffd">The End&#xa0;&#xa0;&#xa0;<span class="tag"><span class="slide">slide</span></span></h3>
+<div class="outline-text-3" id="text-orgcedbffd">
+<p>
+Sometimes it&rsquo;s safest to add an &ldquo;empty&rdquo; heading at the end of your document to make sure the stylesheets and JavaScript are included.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8c0d439" class="outline-2">
+<h2 id="org8c0d439">Setup</h2>
+<div class="outline-text-2" id="text-org8c0d439">
+<script type="text/javascript" src="out/development/org-html-slideshow.js"></script>
+</div>
+</div>
+</div>
+</body>
+</html>
