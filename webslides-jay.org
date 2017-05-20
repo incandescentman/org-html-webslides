@@ -108,13 +108,13 @@ elements.
 #+END_EXPORT
 
 **  Call to Action
-[[/Users/jay/Dropbox/github/webslides/static/images/iphone-hand.png]]
+[[webslides/static/images/iphone-hand.png]]
 
 Make secure purchases in stores, in apps, and now on the web. The safer
 way to pay.
 
 ** Cari is your best friend :slide:
-[[/Users/jay/Dropbox/github/webslides/static/images/android.png]]
+[[webslides/static/images/android.png]]
 
 *Your life will be more complete.*
 
@@ -999,9 +999,9 @@ Sometimes it's safest to add an "empty" heading at the end of your document to m
 
 
 
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/webslides/static/css/base.css" media="projection" />
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/webslides/static/css/colors.css" media="projection" />
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/webslides/static/css/svg-icons.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="webslides/static/css/base.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="webslides/static/css/colors.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="webslides/static/css/svg-icons.css" media="projection" />
 #+HTML_HEAD_EXTRA: <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
 
 #+BEGIN_EXPORT html
