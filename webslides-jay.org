@@ -8,10 +8,10 @@
 
 * Intro
 
-** Create a stylish web presence easily :slide:wrap:aligncenter:
+** Create a stylish web presence easily :slide:wrap:aligncenter:splash:
 The interface is your brand
 
-** *WebSlides is really easy* :slide:grid:verticalalign:
+** *WebSlides is really easy* :slide:grid:verticalalign:wrap:column:halfquote:
 Each parent =<section>= in the #webslides element is an individual slide.
 
 Code looks neat, pure. It uses *intuitive markup* with popular naming
@@ -33,7 +33,7 @@ on [[https://github.com/jennschiffer/SimpleSlides][SimpleSlides]], by [[http://j
     </article>
 #+END_EXAMPLE
 
-** Welcomes :slide:wrap:size50:
+** Welcomes :slide:wrap:size50:aligncenter:textlanding:
 *WebSlides* is an open source tool for telling stories.
 Make it simple, but significant.
 
@@ -41,18 +41,18 @@ Make it simple, but significant.
 -  [[https://dribbble.com/tags/webslides][Dribbble]]
 -  [[https://github.com/jlantunez/webslides][Github]]
 
-** How to Tell Your Story? :slide:wrap:size50:frame:textserif:bgsecondary:
+** How to Tell Your Story? :slide:wrap:size50:frame:textserif:bgsecondary:centerheadline:
 Stories have the power to change the world. WebSlides helps you write
 better content, faster. Your slides are there to support your story.
 Choose words wisely, create meaning with them, keep it simple.
 
-** *Why WebSlides?* Good karma and productivity. :slide:wrap:size60:bgwhiteshadow:fancylist:
+** *Why WebSlides?* Good karma and productivity. :slide:wrap:size60:bgwhite:shadow:flexblock:reasons:fancynumberedlist:
 1. We're web people.
    - There're excellent presentation tools out there. WebSlides is about telling the story, and sharing it in a beautiful way. Hypertext and clean code as narrative elements.
 2. Work better, faster.
    - Designers, marketers, and journalists can now focus on the content. Simply [[https://webslides.tv/demos][choose a demo]] and customize it in minutes.
 
-** *Why WebSlides?*                      :slide:size50:
+** *Why WebSlides?*                      :slide:size50:textintro:
 *There are amazing presentation tools out there.*
 
 Everyone loves a good story. WebSlides is about *good karma*. This is
@@ -60,7 +60,7 @@ about telling the story, and sharing it in a beautiful way. How? Making
 HTML presentations easy. Hypertext, clean code, and beauty as narrative
 elements.
 
-** *HTML Presentations* Made Easy :slide:wrap:ctacover:
+** *HTML Presentations* Made Easy :slide:wrap:ctacover:flexblock:features:icons1:
 
 #+BEGIN_EXPORT html
 <p class="alignright">
@@ -107,7 +107,7 @@ elements.
       </ul>
 #+END_EXPORT
 
-**  Call to Action :slide:bgapple:
+**  Call to Action :slide:bgapple:backgroundrightbottom:contentleft:
 [[./webslides/static/images/iphone-hand.png]]
 
 Make secure purchases in stores, in apps, and now on the web. The safer
@@ -486,7 +486,7 @@ your job, you can change the world.
       </ul>
 #+END_EXPORT
 
-** Features :slide:bgbrown:hidden:wrap:grid:column:
+** Features :slide:bgbrown:hiddenheadline:wrap:grid:column:
 *Feature 1*
 Test your web and mobile designs, and quickly incorporate user feedback.
 
@@ -810,7 +810,7 @@ I have always appreciated designers who dare to reinterpret fabrics and proporti
 * Media
 ** *Embedding Media* :slide:
 
-*** Responsive Videos wrap:aligncenter:hidden:slide:youtube:wrap:size60:youtube:
+** Responsive Videos :wrap:aligncenter:slide:youtube:wrap:size60:youtube:
 
 [[yt:b4LrTkWq9jU]]
 
@@ -822,7 +822,7 @@ I have always appreciated designers who dare to reinterpret fabrics and proporti
     </div>
 #+END_EXAMPLE
 
-*** Fullscreen videos :slide:youtube:fullscreen:
+** Fullscreen videos                   :slide:youtube:fullscreen:
 [[yt:b4LrTkWq9jU]]
 
 ** *Every end is a new beginning* :slide:fullscreen:bg:black:aligncenter:
