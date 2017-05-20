@@ -41,16 +41,16 @@ Make it simple, but significant.
 -  [[https://dribbble.com/tags/webslides][Dribbble]]
 -  [[https://github.com/jlantunez/webslides][Github]]
 
-** How to Tell Your Story? :slide:wrap:size50:frame:textserif:
+** How to Tell Your Story? :slide:wrap:size50:frame:textserif:bgsecondary:
 Stories have the power to change the world. WebSlides helps you write
 better content, faster. Your slides are there to support your story.
 Choose words wisely, create meaning with them, keep it simple.
 
-** *Why WebSlides?* Good karma and productivity. :slide:wrap:size60:bgwhite shadow:fancylist:
+** *Why WebSlides?* Good karma and productivity. :slide:wrap:size60:bgwhiteshadow:fancylist:
 1. We're web people.
-   There're excellent presentation tools out there. WebSlides is about telling the story, and sharing it in a beautiful way. Hypertext and clean code as narrative elements.
+   - There're excellent presentation tools out there. WebSlides is about telling the story, and sharing it in a beautiful way. Hypertext and clean code as narrative elements.
 2. Work better, faster.
-   Designers, marketers, and journalists can now focus on the content. Simply [[https://webslides.tv/demos][choose a demo]] and customize it in minutes.
+   - Designers, marketers, and journalists can now focus on the content. Simply [[https://webslides.tv/demos][choose a demo]] and customize it in minutes.
 
 ** *Why WebSlides?*                      :slide:size50:
 *There are amazing presentation tools out there.*
@@ -107,14 +107,18 @@ elements.
       </ul>
 #+END_EXPORT
 
-**  Call to Action
-[[webslides/static/images/iphone-hand.png]]
+**  Call to Action :slide:bgapple:
+[[./webslides/static/images/iphone-hand.png]]
 
 Make secure purchases in stores, in apps, and now on the web. The safer
 way to pay.
 
-** Cari is your best friend :slide:
-[[webslides/static/images/android.png]]
+** Cari is your best friend :slide:grid:verticalalign:
+[[./webslides/static/images/android.png]]
+
+#+BEGIN_EXPORT HTML
+ <div class="column">
+#+END_EXPORT
 
 *Your life will be more complete.*
 
@@ -122,9 +126,16 @@ Cari makes connections based on your relationships, uses humor, and is
 eager to learn more about your world and how to make your life easier to
 manage.
 
-** *Covers* :slide:
+#+BEGIN_EXPORT HTML
+ </div>
+#+END_EXPORT
 
-** *California*
+** Covers                              :slide:background:aligncenter:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/california-mountains.jpg]]
+
+** California :slide:background:bgblack:aligncenter:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/yosemite.jpg]]
+
 #+BEGIN_EXPORT html
 <p class="text-shadow">
        <svg class="fa-map-marker">
@@ -150,10 +161,12 @@ manage.
      </footer>
 #+END_EXPORT
 
-** WebSlides is about *telling the story*, and sharing it in a beautiful :slide:
-way.
+** WebSlides is about *telling the story*, and sharing it in a beautiful way. :slide:wrapsize60:background:dark:bggradientv:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/golden-gate-bridge.jpg]]
 
-*** *Hotel Daenerys* :slide:
+** *Hotel Daenerys*                      :slide:alignright:size50:bgtransdark:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/hotel-danerys.jpg]]
+
 The Daenerys has facilities such as a 24-hour front desk, an elevator
 with access to all rooms, and a terrace with a garden where guests can
 enjoy breakfast during the summer.
@@ -161,13 +174,20 @@ enjoy breakfast during the summer.
 #+BEGIN_EXPORT html
 <p class="aligncenter"><a class="button" href="#">More info</a></p>
 #+END_EXPORT
-** Summer
+
+** Summer :slide:wrap:background:bgblack:aligncenter:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/summer.jpg]]
+
 The best places at the best price.
 
-** Hidden headline
+** Hidden headline :slide:wrap:background:bgblack:wrap:hiddenheadline:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/motorcycle.jpg]]
+
 *$975*
 
-** Living on Mars                      :slide:
+** Living on Mars :slide:wrap:background:bgblack:slidetop:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/mars.jpg]]
+
 Paula Chan, CEO of SpaceY.
 
 #+BEGIN_EXPORT html
@@ -181,16 +201,19 @@ Paula Chan, CEO of SpaceY.
      </footer>
 #+END_EXPORT
 
-** *PROBLEM & SOLUTION*
+** *PROBLEM & SOLUTION* :slide:wrap:background:slidetop:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/record-player.jpg]]
+
 The history of the music industry is also the story of the development of technology.
 
-** Location Intelligence :slide:bg-black:slide-bottom:
+** *The application of geographic mapping to data* :slide:bgblack:slidebottom:inverted:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/earthscape.jpg]]
 
-** *The application of geographic mapping to data* :slide:
+LOCATION INTELLIGENCE
 
 ** *Abouts & Teams* :slide:wrap:aligncenter:
 
-** ul.flexblock.steps                  :slide:
+** ul.flexblock.steps                  :slide:flexblock:steps:wrap:
 
 #+BEGIN_EXPORT html
 <ul class="flexblock steps">
@@ -243,7 +266,7 @@ The history of the music industry is also the story of the development of techno
 #+END_EXPORT
 
 
-** FAQs                                :slide:2column:
+** FAQs                                :slide:2column:wrap:grid:column:
 WebSlides is an open source solution by [[https://twitter.com/jlantunez][@jlantunez]]. If you have additional questions, [[https://twitter.com/webslides][get in touch!]]
 
 #+BEGIN_EXPORT HTML
@@ -267,7 +290,7 @@ You can create your own presentation instantly. Just a basic knowledge of HTML a
 #+END_EXPORT
 
 
-** Why WebSlides? :slide:
+** Why WebSlides? :slide:textcols:column:wrap:grid:
    :PROPERTIES:
    :CUSTOM_ID: why-webslides-2
    :END:
@@ -316,7 +339,7 @@ your job, you can change the world.
       </ul>
 #+END_EXPORT
 
-*** Team :slide:
+*** Team :slide:wrap:flexblock:gallery:
 #+BEGIN_EXPORT html
 <ul class="flexblock gallery">
        <li>
@@ -355,11 +378,7 @@ your job, you can change the world.
       </ul>
 #+END_EXPORT
 
-*** Team :slide:
-
-   #+BEGIN_EXPORT HTML
-     <div class="overlay">
-   #+END_EXPORT
+*** Team :slide:wrap:flexblock:gallery:overlay:
 
 #+BEGIN_EXPORT html
 <ul class="flexblock gallery">
@@ -399,13 +418,9 @@ your job, you can change the world.
       </ul>
 #+END_EXPORT
 
-   #+BEGIN_EXPORT HTML
-     </div>
-   #+END_EXPORT
+** *Features & Benefits* :slide:wrap:aligncenter:
 
-** *Features & Benefits* :slide:
-
-** Features :slide:
+** Features :slide:wrap:flexblock:features:
 #+BEGIN_EXPORT html
 <ul class="flexblock features">
        <li>
@@ -471,7 +486,7 @@ your job, you can change the world.
       </ul>
 #+END_EXPORT
 
-** Features :slide:bgbrown:
+** Features :slide:bgbrown:hidden:wrap:grid:column:
 *Feature 1*
 Test your web and mobile designs, and quickly incorporate user feedback.
 
@@ -482,18 +497,18 @@ When you're really passionate about your job, you can change the world.
 The most popular elements commonly used for creating landings and
 portfolios.
 
+* iPhone 7 :slide:grid:verticalalign:column:
+[[./webslides/static/images/iphone.png]]
 
-[[../static/images/iphone.png]]
-
-
-* iPhone 7
 *3D Touch, 12MP photos, and 4K video. Centering vertically using grid.vertical-align*
 
 Every iPhone they have made was built on the same belief. That a phone
 should be more than a collection of features. That, above all, a phone
 should be absolutely simple, beautiful, and magical to use.
 
-** iPhone 7 :slide:
+** iPhone 7 :slide:grid:verticalalign:column:background:backgroundright:
+[[./webslides/static/images/iphone.png]]
+
 *A phone should be absolutely simple, beautiful, and magical to use. 3D
 Touch, 12MP photos, and 4K video.*
 
@@ -502,7 +517,9 @@ Touch, 12MP photos, and 4K video.*
 2. Benefit 2
    The art of storytelling. Inspire teams, fascinate customers, and gain attention from investors.
 
-** A Phone by Google :slide:
+** A Phone by Google :slide:wrap:column:grid:verticalalign:
+[[./webslides//static/images/android.png]]
+
 Pixel's camera lets you take brilliant photos in low light, bright light
 or any light.
 
@@ -512,8 +529,9 @@ or any light.
 
 
 ** *Bonsai* :slide:fullscreen:card50:
-*Bonsai is a Japanese art form using trees grown in containers ---
-.fullscreen > .card-50.*
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/bonsai.jpg]]
+
+*Bonsai is a Japanese art form using trees grown in containers --- .fullscreen > .card-50.*
 
 Similar practices exist in other cultures, including the Chinese
 tradition of penjing from which the art originated, and the miniature
@@ -593,10 +611,14 @@ owners.
       </ul>
 
 #+END_EXPORT
-** 2,356,478 :slide:
+** 2,356,478 :slide:background:bgblack:aligncenter:wrap:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/watch.jpg]]
+
 downloads in first 72 hours
 
-** 1,000,000 :slide:
+** E1,000,000                          :slide:bgblack:slidebottom:background:wrap:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/forest.jpg]]
+
 *We're working to protect up to a million acres of sustainable forest.*
 #+BEGIN_EXPORT html
 <p>
@@ -609,7 +631,7 @@ downloads in first 72 hours
 
 ** *Pricing & Offers* :slide:
 
-** Basic                               :slide:
+** Basic                               :slide:wrap:flexblock:plans:blink:
 #+BEGIN_EXPORT html
 <ul class="flexblock plans blink">
        <li>
@@ -646,7 +668,7 @@ downloads in first 72 hours
 
 #+END_EXPORT
 
-** basic
+** basic :slide:bgpurple:wrap:size50:flexblock:plans:blink:
 #+BEGIN_EXPORT html
 <ul class="flexblock plans blink">
        <li>
@@ -711,7 +733,7 @@ downloads in first 72 hours
 
 #+END_EXPORT
 
-** Choose one plan :slide:
+** Choose one plan :slide:wrap:bggradientv:aligncenter:
 Simple pricing. No credit card required!
 
 | Plans                                     | Good | Better | Awesome   |
@@ -722,11 +744,16 @@ Simple pricing. No credit card required!
 | Access to exclusive content               | No   | No     | Yes       |
 
 
-** Red :slide:frame:bgred:
-#+END_EXPORT
+** Red :slide:frame:bgred:cta:wrap:
+
 
 *$40*
-Watch TV shows anytime, anywhere :slide:
+Watch TV shows anytime, anywhere
+
+[[./webslides/static/images/logos/netflix.svg]]
+
+** Get 8 weeks free :slide:frame:bgred:background:dark:wrap:cta:overlay:
+[[/Users/jay/Dropbox/github/org-html-webslides/webslides/static/images/webslides-images/TV.jpg]]
 
 ** *Quotes* :slide:
    :PROPERTIES:
@@ -762,6 +789,7 @@ I have always appreciated designers who dare to reinterpret fabrics and proporti
 #+END_QUOTE
 
 ** quote :slide:quote:wrap:card50:
+[[./webslides/static/images/davinci.png]]
 
 #+BEGIN_QUOTE
   "WebSlides helped us build a culture of innovation and excellence."
@@ -770,6 +798,8 @@ I have always appreciated designers who dare to reinterpret fabrics and proporti
 #+END_QUOTE
 
 ** quote :slide:quote:bgapple:
+[[https://webslides.tv/static/images/tim-cook.png]]
+
 #+BEGIN_QUOTE
 "Some people see innovation as change, but we have never really seen it like that. It's making things better."
 
@@ -780,7 +810,7 @@ I have always appreciated designers who dare to reinterpret fabrics and proporti
 * Media
 ** *Embedding Media* :slide:
 
-*** Responsive Videos :slide:youtube:wrap:size60:
+*** Responsive Videos wrap:aligncenter:hidden:slide:youtube:wrap:size60:youtube:
 
 [[yt:b4LrTkWq9jU]]
 
@@ -795,7 +825,7 @@ I have always appreciated designers who dare to reinterpret fabrics and proporti
 *** Fullscreen videos :slide:youtube:fullscreen:
 [[yt:b4LrTkWq9jU]]
 
-** *Every end is a new beginning* :slide:
+** *Every end is a new beginning* :slide:fullscreen:bg:black:aligncenter:
 #+BEGIN_EXPORT html
 <video autoplay loop muted poster="https://webslides.tv/static/images/peggy.jpg">
        <source src="https://webslides.tv/static/videos/peggy.mp4" type="video/mp4">
@@ -999,9 +1029,9 @@ Sometimes it's safest to add an "empty" heading at the end of your document to m
 
 
 
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="webslides/static/css/base.css" media="projection" />
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="webslides/static/css/colors.css" media="projection" />
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="webslides/static/css/svg-icons.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/base.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/colors.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/svg-icons.css" media="projection" />
 #+HTML_HEAD_EXTRA: <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
 
 #+BEGIN_EXPORT html
