@@ -371,7 +371,7 @@ nav a[rel="external"] em,
 .shadow {
   position: relative;
 }
-.shadow:before,.shadow:after {
+.shadow:before, .shadow:after {
   z-index: -1;
   position: absolute;
   content: "";
@@ -407,7 +407,7 @@ width: 90%;
  }
 }
 
-.frame,.shadow {
+.frame, .shadow {
   padding: 2.4rem;
 }
 
@@ -451,26 +451,26 @@ img.alignleft,svg.alignleft,figure.alignleft {
 
 @media (min-width: 1024px) {
 
-  /*=== div.size-60, img.size-50, h1.size-40, p.size-30... === */
-  .size-80 {
+    /*=== div.size-60, .size60, , img.size-50, .size50, , img.size50, h1.size-40, .size40, , h1.size40, p.size-30, .size30, ... === */
+    .size-80, .size80,  {
     width: 80%;
   }
-  .size-70 {
+    .size-70, .size70,  {
     width: 70%;
   }
-  .size-60 {
+    .size-60, .size60,  {
     width: 60%;
   }
-  .size-50 {
+    .size-50, .size50,  {
     width: 50%;
   }
-  .size-40 {
+    .size-40, .size40,  {
     width: 40%;
   }
-  .size-30 {
+    .size-30, .size30,  {
     width: 30%;
   }
-  .size-20 {
+    .size-20, .size20,  {
     width: 20%;
   }
 }
@@ -698,7 +698,7 @@ footer,
 
 .embed iframe,
 .embed object,
-.embed embed,.embed video {
+.embed embed, .embed video {
   position: absolute;
   top: 0;
   left: 0;
@@ -933,7 +933,7 @@ ul.description {
 .description li:hover{
   padding-left: .4rem;
 }
-ul.description li,.column ul li {list-style: none;margin-left: 0;}
+ul.description li, .column ul li {list-style: none;margin-left: 0;}
 
 .column ol>li {margin-left: 1.6rem;
 }
@@ -942,10 +942,10 @@ h1 svg,
 h2 svg, h3 svg, h4 svg {
   margin-top: -.8rem;
 }
-.text-intro svg,.text-quote p svg,.wall p svg,.try svg {
+.text-intro svg, .text-quote p svg, .wall p svg, .try svg {
   margin-top: -.4rem;
 }
-.flexblock li h2 svg,.flexblock li h3 svg {margin-top: 0;
+.flexblock li h2 svg, .flexblock li h3 svg {margin-top: 0;
 }
 
 h1 {
@@ -1268,7 +1268,7 @@ img[class*="text-pull-"],figure[class*="text-pull-"] {
 2.1. San Francisco Font (Apple's new font)
 =========================================== */
 
-.text-apple,.bg-apple {
+.text-apple, .bg-apple {
   font-family: "San Francisco", helvetica, arial, sans-serif;
 }
 
@@ -1338,7 +1338,7 @@ header, footer {
   z-index: 3;
 }
 
-header,.ws-ready footer {
+header, .ws-ready footer {
   position: absolute;
   top: 0;
   left: 0;
@@ -1485,7 +1485,7 @@ section .background,section .light,section .dark {
 
 /*=== Section = Slide === */
 
-section,.slide
+section, .slide
 {
   position: relative;
   display: -webkit-flex;
@@ -1535,7 +1535,7 @@ Aligned items [class*="content-"]=== */
   /*display: table;*/
   text-align: left;
 }
-.wrap[class*="bg-"],.wrap.frame,
+.wrap[class*="bg-"], .wrap.frame,
 [class*="content-"][class*="bg-"],
 [class*="content-"].frame, [class*="align"][class*="bg-"]{
   padding: 4.8rem;
@@ -1713,7 +1713,7 @@ a#previous {
 .background-center-bottom,
 .background-left-bottom,
 .background-right-bottom,
-.background-left,.background-right {
+.background-left, .background-right {
   background-position: center bottom;
 }
 
@@ -1890,7 +1890,7 @@ div + ul, div + ol{
     margin-left: 2%;
     width: 29%;
   }
-  .size-50 .flexblock.features>li{
+  .size-50, .size50,  .flexblock.features>li{
     width: 46%;
   }
   .column .flexblock.features>li{width: 100%;}
@@ -1914,7 +1914,7 @@ div + ul, div + ol{
 .features li p em {
   display: block;
 }
-.features li span,.features li svg {
+.features li span, .features li svg {
   font-size: 6.4rem;
   line-height: 1;
   display: block;
@@ -1928,7 +1928,7 @@ div + ul, div + ol{
 
 @media (min-width:1200px) {
   .features li span,
-  .features li svg,.features li img {
+  .features li svg, .features li img {
     float: left;
     margin-right: .8rem;
   }
@@ -1938,7 +1938,7 @@ div + ul, div + ol{
 6.2 Clients Logos <ul class="flexblock clients">
 ======================================================================= */
 
-.flexblock.clients.blink li>a,.flexblock.clients li {
+.flexblock.clients.blink li>a, .flexblock.clients li {
   padding: 0;
 }
 
@@ -1954,12 +1954,12 @@ div + ul, div + ol{
   justify-content: inherit;
 }
 
-.clients li img,.clients li svg {
+.clients li img, .clients li svg {
   display: block;
   padding: 2.4rem;
 }
 
-.clients.border li img,.clients.border li svg {
+.clients.border li img, .clients.border li svg {
   margin-right: auto;
   margin-left: auto;
   display: block;
@@ -2023,7 +2023,7 @@ About, Philosophy...
   display: block;
 }
 
-.metrics li span,.metrics li svg {
+.metrics li span, .metrics li svg {
   font-size: 6.4rem;
   line-height: 7.2rem;
   display: block;
@@ -2041,7 +2041,7 @@ About, Philosophy...
     width: 25%;
   }
 }
-.card-50 .metrics li {
+.card-50 .metrics li, .card50 .metrics li {
   width: 50%;
 }
 
@@ -2067,7 +2067,7 @@ About, Philosophy...
   transform: translateX(.2rem);
 }
 
-.specs li span,.specs li svg {
+.specs li span, .specs li svg {
   font-size: 6.4rem;
   line-height: 1;
   display: block;
@@ -2086,7 +2086,7 @@ About, Philosophy...
 
 @media (min-width:1024px) {
   .specs li span,
-  .specs li svg,.specs li img {
+  .specs li svg, .specs li img {
     float: left;
     margin-right: 2.4rem;
   }
@@ -2148,7 +2148,7 @@ img size recommended:800x600px
 }
 .gallery h2 {text-transform: uppercase;}
 
-.gallery h2 + p,.gallery h3 + p {
+.gallery h2 + p, .gallery h3 + p {
   margin-top: .8rem;
 }
 .gallery p {
@@ -2205,7 +2205,7 @@ img size recommended:800x600px
   .flexblock.gallery li {
     width: 21%;
   }
-  .grid.sm .flexblock.gallery li,.grid.ms .flexblock.gallery li {
+  .grid.sm .flexblock.gallery li, .grid.ms .flexblock.gallery li {
     width: 29%;
   }
   .grid.sms .flexblock.gallery li {
@@ -2806,26 +2806,45 @@ object-fit to re-frame images rather than just stretch and resize them  === */
 
 @media (min-width: 768px) {
   /*== Cards (Sizes) - Reference: figure img:-70,60,50,40,30... === */
-  .card-50 figure,
+  .card50 figure,
+  .card50 blockquote,
+  .card50 .flex-content,
+    .card-50 figure,
   .card-50 blockquote,
   .card-50 .flex-content {
     width: 50%;
   }
+
+  .card30 figure,
+  .card70 .flex-content,
+  .card70 blockquote,
   .card-30 figure,
   .card-70 .flex-content,
   .card-70 blockquote {
     width: 30%;
   }
-  .card-40 figure,
-  .card-60 .flex-content,
-  .card-60 blockquote {
+
+    .card40 figure,
+  .card60 .flex-content,
+  .card60 blockquote,
+  .card40 figure,
+  .card60 .flex-content,
+  .card60 blockquote {
     width: 40%;
-  }
+    }
+
+      .card60 figure,
+  .card40 .flex-content,
+  .card40 blockquote,
   .card-60 figure,
   .card-40 .flex-content,
   .card-40 blockquote {
     width: 60%;
-  }
+      }
+
+  .card70 figure,
+  .card30 .flex-content,
+  .card30 blockquote,
   .card-70 figure,
   .card-30 .flex-content,
   .card-30 blockquote {
@@ -2920,10 +2939,10 @@ cite:before {
 /* -- Big Blockquote -- */
 /* Info: .wall will be deprecated soon. Use .text-quote ;) */
 
-.text-quote,.wall {
+.text-quote, .wall {
 position: relative; /* Versatility: blockquote, p, h2... */
 }
-.text-quote:before,.wall:before {
+.text-quote:before, .wall:before {
   position: absolute;
   top: -4rem;
   left: -.8rem;
@@ -2937,14 +2956,14 @@ position: relative; /* Versatility: blockquote, p, h2... */
 }
 
 @media (min-width:768px) {
-  .text-quote,.wall {
+  .text-quote, .wall {
     padding-left: 6.4rem;
   }
-  .text-quote p,.wall p {
+  .text-quote p, .wall p {
     font-size: 3.2rem;
     line-height: 4.8rem;
   }
-  .text-quote:before,.wall:before {
+  .text-quote:before, .wall:before {
     top: -1.6rem;
     left: .8rem;
   }
@@ -3196,7 +3215,7 @@ input[type="submit"]:hover {
 }
 
 .user input[type="email"],
-.user input[type="search"],.user input[type="text"] {
+.user input[type="search"], .user input[type="text"] {
   width: 100%;
 }
 
@@ -3249,17 +3268,17 @@ width: 72rem;
 .longform .alignleft, .longform .alignright {
     max-width: 40%;
 }
-.longform img.aligncenter,.longform figure.aligncenter {
+.longform img.aligncenter, .longform figure.aligncenter {
   margin-top: 3.2rem;
   margin-bottom: 3.2rem;
 }
-.longform ul,.longform ol {
+.longform ul, .longform ol {
 margin-bottom: 3.2rem;
 }
-.longform ul ol,.longform ol ul,.longform ul ul,.longform ol ol {
+.longform ul ol, .longform ol ul, .longform ul ul, .longform ol ol {
 margin-bottom: 0;
 }
-.longform figcaption p,.longform [class*="text-pull-"] p{
+.longform figcaption p, .longform [class*="text-pull-"] p{
 line-height: 2.4rem;
 font-size: 1.6rem;
 }
@@ -3294,7 +3313,7 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 =========================================== */
 
 .flexblock:before, .flexblock:after,
-.grid:before,.grid:after, .cta:before,.cta:after{
+.grid:before, .grid:after, .cta:before, .cta:after{
   width: 0;
 }
 
