@@ -929,12 +929,12 @@ This slide is a *level-3* Org-Mode heading, inside the previous one.
 - This slide has notes
 - Notes are only visible to presenter
 
-*** Notes                                                             :notes: :slide:
+*** Notes                                                             :notes:
 
 - Presenter notes for this slide
 - Not displayed as part of the slide
 - Displayed in Presenter Preview window
-- Only one =:notes:= section per slide allowed
+- Only one =notes= section per slide allowed
 
 * Source Code                                                         :slide:
 
