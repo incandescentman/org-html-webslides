@@ -6,10 +6,20 @@
 
 
 
+
 * Intro
+
 
 ** Create a stylish web presence easily :slide:wrap:aligncenter:splash:
 The interface is your brand
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** *WebSlides is really easy* :slide:grid:verticalalign:wrap:column:halfquote:
 Each parent =<section>= in the #webslides element is an individual slide.
@@ -33,6 +43,14 @@ on [[https://github.com/jennschiffer/SimpleSlides][SimpleSlides]], by [[http://j
     </article>
 #+END_EXAMPLE
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Welcomes :slide:wrap:size50:aligncenter:textlanding:
 *WebSlides* is an open source tool for telling stories.
 Make it simple, but significant.
@@ -41,16 +59,40 @@ Make it simple, but significant.
 -  [[https://dribbble.com/tags/webslides][Dribbble]]
 -  [[https://github.com/jlantunez/webslides][Github]]
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** How to Tell Your Story? :slide:wrap:size50:frame:textserif:bgsecondary:centerheadline:
 Stories have the power to change the world. WebSlides helps you write
 better content, faster. Your slides are there to support your story.
 Choose words wisely, create meaning with them, keep it simple.
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** *Why WebSlides?* Good karma and productivity. :slide:wrap:size60:bgwhite:shadow:flexblock:reasons:fancynumberedlist:
 1. We're web people.
    - There're excellent presentation tools out there. WebSlides is about telling the story, and sharing it in a beautiful way. Hypertext and clean code as narrative elements.
 2. Work better, faster.
    - Designers, marketers, and journalists can now focus on the content. Simply [[https://webslides.tv/demos][choose a demo]] and customize it in minutes.
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** *Why WebSlides?*                      :slide:size50:textintro:
 *There are amazing presentation tools out there.*
@@ -59,6 +101,14 @@ Everyone loves a good story. WebSlides is about *good karma*. This is
 about telling the story, and sharing it in a beautiful way. How? Making
 HTML presentations easy. Hypertext, clean code, and beauty as narrative
 elements.
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** *HTML Presentations* Made Easy :slide:wrap:ctacover:flexblock:features:icons1:
 
@@ -107,11 +157,27 @@ elements.
       </ul>
 #+END_EXPORT
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 **  Call to Action :slide:bgapple:backgroundrightbottom:contentleft:
 [[./webslides/static/images/iphone-hand.png]]
 
 Make secure purchases in stores, in apps, and now on the web. The safer
 way to pay.
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Cari is your best friend :slide:grid:verticalalign:
 [[./webslides/static/images/android.png]]
@@ -130,8 +196,24 @@ manage.
  </div>
 #+END_EXPORT
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Covers                              :slide:background:aligncenter:
 [[./webslides/static/images/webslides-images/california-mountains.jpg]]
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** California :slide:background:bgblack:aligncenter:
 [[./webslides/static/images/webslides-images/yosemite.jpg]]
@@ -161,8 +243,24 @@ manage.
      </footer>
 #+END_EXPORT
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** WebSlides is about *telling the story*, and sharing it in a beautiful way. :slide:wrapsize60:background:dark:bggradientv:
 [[./webslides/static/images/webslides-images/golden-gate-bridge.jpg]]
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** *Hotel Daenerys*                      :slide:alignright:size50:bgtransdark:
 [[./webslides/static/images/webslides-images/hotel-danerys.jpg]]
@@ -175,15 +273,39 @@ enjoy breakfast during the summer.
 <p class="aligncenter"><a class="button" href="#">More info</a></p>
 #+END_EXPORT
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Summer :slide:wrap:background:bgblack:aligncenter:
 [[./webslides/static/images/webslides-images/summer.jpg]]
 
 The best places at the best price.
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Hidden headline :slide:wrap:background:bgblack:wrap:hiddenheadline:
 [[./webslides/static/images/webslides-images/motorcycle.jpg]]
 
 *$975*
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Living on Mars :slide:wrap:background:bgblack:slidetop:
 [[./webslides/static/images/webslides-images/mars.jpg]]
@@ -201,17 +323,49 @@ Paula Chan, CEO of SpaceY.
      </footer>
 #+END_EXPORT
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** *PROBLEM & SOLUTION* :slide:wrap:background:slidetop:
 [[./webslides/static/images/webslides-images/record-player.jpg]]
 
 The history of the music industry is also the story of the development of technology.
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** *The application of geographic mapping to data* :slide:bgblack:slidebottom:inverted:
 [[./webslides/static/images/webslides-images/earthscape.jpg]]
 
 LOCATION INTELLIGENCE
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** *Abouts & Teams* :slide:wrap:aligncenter:
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** ul.flexblock.steps                  :slide:flexblock:steps:wrap:
 
@@ -266,6 +420,14 @@ LOCATION INTELLIGENCE
 #+END_EXPORT
 
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** FAQs                                :slide:2column:wrap:grid:column:
 WebSlides is an open source solution by [[https://twitter.com/jlantunez][@jlantunez]]. If you have additional questions, [[https://twitter.com/webslides][get in touch!]]
 
@@ -289,6 +451,14 @@ You can create your own presentation instantly. Just a basic knowledge of HTML a
  </div>
 #+END_EXPORT
 
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Why WebSlides? :slide:textcols:column:wrap:grid:
    :PROPERTIES:
@@ -339,6 +509,14 @@ your job, you can change the world.
       </ul>
 #+END_EXPORT
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 *** Team :slide:wrap:flexblock:gallery:
 #+BEGIN_EXPORT html
 <ul class="flexblock gallery">
@@ -377,6 +555,14 @@ your job, you can change the world.
        </li>
       </ul>
 #+END_EXPORT
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 *** Team :slide:wrap:flexblock:gallery:overlay:
 
@@ -418,7 +604,23 @@ your job, you can change the world.
       </ul>
 #+END_EXPORT
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** *Features & Benefits* :slide:wrap:aligncenter:
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Features :slide:wrap:flexblock:features:
 #+BEGIN_EXPORT html
@@ -486,6 +688,14 @@ your job, you can change the world.
       </ul>
 #+END_EXPORT
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Features :slide:bgbrown:hiddenheadline:wrap:grid:column:
 *Feature 1*
 Test your web and mobile designs, and quickly incorporate user feedback.
@@ -497,6 +707,14 @@ When you're really passionate about your job, you can change the world.
 The most popular elements commonly used for creating landings and
 portfolios.
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 * iPhone 7 :slide:grid:verticalalign:column:
 [[./webslides/static/images/iphone.png]]
 
@@ -505,6 +723,14 @@ portfolios.
 Every iPhone they have made was built on the same belief. That a phone
 should be more than a collection of features. That, above all, a phone
 should be absolutely simple, beautiful, and magical to use.
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** iPhone 7 :slide:grid:verticalalign:column:background:backgroundright:
 [[./webslides/static/images/iphone.png]]
@@ -517,6 +743,14 @@ Touch, 12MP photos, and 4K video.*
 2. Benefit 2
    The art of storytelling. Inspire teams, fascinate customers, and gain attention from investors.
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** A Phone by Google :slide:wrap:column:grid:verticalalign:
 [[./webslides//static/images/android.png]]
 
@@ -528,6 +762,14 @@ or any light.
 -   *Website:* [[https://madeby.google.com/phone/][madeby.google.com/phone]]
 
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** *Bonsai* :slide:fullscreen:card50:
 [[./webslides/static/images/webslides-images/bonsai.jpg]]
 
@@ -537,8 +779,24 @@ Similar practices exist in other cultures, including the Chinese
 tradition of penjing from which the art originated, and the miniature
 living landscapes of Vietnamese hòn non bộ.
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** *Metrics & Data* :slide:
 
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** WebSlides help you build a culture of innovation. :slide:
 ~.flexblock.metrics~ All content is for demo purposes only, to show an
@@ -549,6 +807,14 @@ owners.
 -  *120+* Prebuilt Slides
 -  32M Downloads
 -  Revenue: $72M
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Metrics                             :slide:
 #+BEGIN_EXPORT html
@@ -611,10 +877,26 @@ owners.
       </ul>
 
 #+END_EXPORT
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** 2,356,478 :slide:background:bgblack:aligncenter:wrap:
 [[./webslides/static/images/webslides-images/watch.jpg]]
 
 downloads in first 72 hours
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** E1,000,000                          :slide:bgblack:slidebottom:background:wrap:
 [[./webslides/static/images/webslides-images/forest.jpg]]
@@ -629,7 +911,23 @@ downloads in first 72 hours
 
 #+END_EXPORT
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** *Pricing & Offers* :slide:
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Basic                               :slide:wrap:flexblock:plans:blink:
 #+BEGIN_EXPORT html
@@ -667,6 +965,14 @@ downloads in first 72 hours
       </ul>
 
 #+END_EXPORT
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** basic :slide:bgpurple:wrap:size50:flexblock:plans:blink:
 #+BEGIN_EXPORT html
@@ -733,6 +1039,14 @@ downloads in first 72 hours
 
 #+END_EXPORT
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Choose one plan :slide:wrap:bggradientv:aligncenter:
 Simple pricing. No credit card required!
 
@@ -744,6 +1058,14 @@ Simple pricing. No credit card required!
 | Access to exclusive content               | No   | No     | Yes       |
 
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Red :slide:frame:bgred:cta:wrap:
 
 
@@ -752,8 +1074,24 @@ Watch TV shows anytime, anywhere
 
 [[./webslides/static/images/logos/netflix.svg]]
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Get 8 weeks free :slide:frame:bgred:background:dark:wrap:cta:overlay:
 [[./webslides/static/images/webslides-images/TV.jpg]]
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** *Quotes* :slide:
    :PROPERTIES:
@@ -772,6 +1110,14 @@ Watch TV shows anytime, anywhere
   <div class="content-center">
 #+END_EXPORT
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** *Why WebSlides?* :slide:quote:bgwhite:
    :PROPERTIES:
    :CUSTOM_ID: why-webslides-3
@@ -782,11 +1128,27 @@ Watch TV shows anytime, anywhere
 --- @jlantunez
 #+END_QUOTE
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** quote :slide:quote:bgblackblue:
 #+BEGIN_QUOTE
 I have always appreciated designers who dare to reinterpret fabrics and proportions, so I follow the Japanese and Belgian designers.
 ---  [[https://en.wikipedia.org/wiki/Zaha_Hadid][Zaha Hadid]]
 #+END_QUOTE
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** quote :slide:quote:wrap:card50:
 [[./webslides/static/images/davinci.png]]
@@ -796,6 +1158,14 @@ I have always appreciated designers who dare to reinterpret fabrics and proporti
 
   Leonardo da Vinci
 #+END_QUOTE
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** quote :slide:quote:bgapple:
 [[https://webslides.tv/static/images/tim-cook.png]]
@@ -807,8 +1177,25 @@ I have always appreciated designers who dare to reinterpret fabrics and proporti
 #+END_QUOTE
 
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 * Media
+
 ** *Embedding Media* :slide:
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Responsive Videos :wrap:aligncenter:slide:youtube:wrap:size60:youtube:
 
@@ -822,8 +1209,24 @@ I have always appreciated designers who dare to reinterpret fabrics and proporti
     </div>
 #+END_EXAMPLE
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Fullscreen videos                   :slide:youtube:fullscreen:
 [[yt:b4LrTkWq9jU]]
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** *Every end is a new beginning* :slide:fullscreen:bg:black:aligncenter:
 #+BEGIN_EXPORT html
@@ -834,6 +1237,14 @@ I have always appreciated designers who dare to reinterpret fabrics and proporti
 
 
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** *Overlay* :slide:overlay:backgroundvideodark:
 
 #+BEGIN_EXPORT html
@@ -843,17 +1254,49 @@ I have always appreciated designers who dare to reinterpret fabrics and proporti
 #+END_EXPORT
 
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 * Org-HTML-Slideshow                                                  :slide:
 
 Make slides from Emacs Org-Mode!
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Making Slides                                                      :slide:
 
 Org-Mode headlines with the =:slide:= tag will become slides.
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Headlines Don't Have to be Slides :slide:
 
 This section doesn't have a =:slide:= tag, so it will *not* become a slide, although it is still part of the exported HTML document.
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Use Lists For Bullets                                              :slide:
 
@@ -890,6 +1333,14 @@ This slide is a *level-3* Org-Mode heading, inside the previous one.
 </video>
 #+END_export
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Slide with <audio> tag                                             :slide:
 #+BEGIN_EXPORT HTML
 <audio preload="auto" controls>
@@ -899,11 +1350,27 @@ This slide is a *level-3* Org-Mode heading, inside the previous one.
 #+END_export
 
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Slide with YouTube video                                           :slide:
 
 #+BEGIN_EXPORT HTML
 <iframe class="ytvid" width="800" height="450" src="https://www.youtube.com/embed/9zSVu76AX3I" frameborder="0" allowfullscreen></iframe>
 #+END_export
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Fullscreen YouTube video  :slide:
 
@@ -919,15 +1386,47 @@ This slide is a *level-3* Org-Mode heading, inside the previous one.
 
 #+END_export
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 * Presenter Notes                                                     :slide:
 
 - Slides can have presenter notes
 - Add a sub-heading with the =:notes:= tag
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** A Slide with Notes                                                 :slide:
 
 - This slide has notes
 - Notes are only visible to presenter
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 
 *** Notes                                                             :notes:
 
@@ -945,11 +1444,27 @@ Use =begin_src/end_src= blocks to include source code.
     (println "This is sample source code."))
 #+end_src
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Syntax Highlighting                                                :slide:
 
 - Org-Mode HTML export uses [[http://www.emacswiki.org/emacs/Htmlize][htmlize.el]]
 - Code in exported HTML will match your current Emacs theme
   - Choose a theme that looks good on a projector!
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Syntax Highlighting with CSS Classes                               :slide:
 
@@ -962,6 +1477,14 @@ Use =begin_src/end_src= blocks to include source code.
 - Examine HTML output to see class names
 - Add CSS styles to set colors
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 * Images                                                              :slide:
 
 - Slides can contain images
@@ -972,6 +1495,14 @@ Use =begin_src/end_src= blocks to include source code.
     - Controls which file types get exported
 - See [[http://orgmode.org/manual/Images-in-HTML-export.html][Images in HTML Export in the Org-Mode manual]].
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** Slide with Image                                                   :slide:
 
 Make a =file:= link with the path to the image and no link text.
@@ -980,10 +1511,26 @@ Make a =file:= link with the path to the image and no link text.
 
 This example image is public-domain [[http://openclipart.org/detail/165554/geodesic_dome-by-yoderj][clip art by Josiah / yoderj]].
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 * Styling                                                             :slide:
 
 - Use CSS styles to control appearance of slides
 - Extra tags on a slide become extra CSS classes on its HTML
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Org-Mode Tag as CSS Class                          :slide:blue_background: :slide:
 
@@ -992,11 +1539,27 @@ This example image is public-domain [[http://openclipart.org/detail/165554/geode
 - Make up your own tags
   - Add them to the CSS file
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 * Placing Stylesheets/JavaScript                                      :slide:
 
 Include the stylesheets and JavaScript at the *bottom* of your Org-Mode file.
 
 They must go at the bottom because the Google Closure Library does not support an on-DOM-ready event. See the [[http://groups.google.com/group/closure-library-discuss/browse_thread/thread/1beecbb5d6afcb41/075c536259653946][Closure mailing list discussion]] for an explanation.
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 ** Warning About Hidden Headlines                                     :slide:
 
@@ -1008,9 +1571,25 @@ Stylesheets and JavaScript will *not* be loaded if the *last* headline in your O
 
 See [[http://orgmode.org/manual/Comment-lines.html][Comment lines]] and [[http://orgmode.org/manual/Selective-export.html][Selective export]] in the Org-Mode manual for details.
 
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
+
 ** The End                                                            :slide:
 
 Sometimes it's safest to add an "empty" heading at the end of your document to make sure the stylesheets and JavaScript are included.
+
+
+*** Notes                                                             :notes:
+
+- Presenter notes for this slide
+- Not displayed as part of the slide
+- Displayed in Presenter Preview window
+- Only one =notes= section per slide allowed
 
 * Setup
 #+OPTIONS: num:nil toc:nil tags:t

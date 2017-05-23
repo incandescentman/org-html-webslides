@@ -1,0 +1,38 @@
+Hello,
+
+I have a CSS job I need done.
+
+I have a git repository here:
+https://github.com/incandescentman/org-html-webslides
+
+There is this file:
+https://github.com/incandescentman/org-html-webslides/blob/master/webslides-jay.html
+
+Open this file in Chrome and press T to begin the slideshow and you will see what the HTML slideshow looks like.
+
+I would like this first file (webslides-jay.html) to look like a second file:
+https://github.com/incandescentman/org-html-webslides/blob/master/webslides/demos/org-html-webslides-landings.html
+
+However, I cannot change https://github.com/incandescentman/org-html-webslides/blob/master/webslides-jay.html very much, because it is automatically generated from the file
+https://github.com/incandescentman/org-html-webslides/blob/master/webslides-jay.org
+
+(However, I am able to add additional unique span tags to the slides in that file if that is helpful.)
+
+Note that when you open https://github.com/incandescentman/org-html-webslides/blob/master/webslides-jay.html, you must press T to begin the slideshow.
+
+Here is the task:
+
+I would like you to make webslides-jay.html look like org-html-webslides-landings.html, but WITHOUT MODIFYING webslides-jay.html. Only by adding additional CSS classes to these CSS files:
+
+- base.css
+- colors.css
+- svg-icons.css
+- org-html-webslides.css
+
+You can make any changes you like to the CSS files.
+
+Slides should look right both in slideshow-mode (when you press T) and also in Presenter Preview mode (when you mouse over the lower left corner of the screen and click "Open presenter preview and you see the presenter view").
+
+Can you do this?
+
+Thanks!
