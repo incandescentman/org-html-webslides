@@ -1,0 +1,113 @@
+.darkbloom.full img, .darkbloom.full img p {
+  /* Set rules to fill background */
+  min-height: 100% !important;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100% !important;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+
+z-index:-150;
+opacity:0.5; /* for a dark layer */
+opacity:1;
+
+}
+
+.slide.full img, .slide.full img p {
+  /* Set rules to fill background */
+  min-height: 100% !important;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100% !important;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+
+z-index:-150;
+}
+
+
+.full h1, .full h2, .full h3, .full h4, .full h5, .full h6, .full h7, .full h8
+{
+color: #535353;
+text-shadow: 0 0 150px #FFF, 0 0 60px #FFF, 0 0 10px #FFF; 
+font-size:100px;
+}
+ 
+.full,.darkbloom
+{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    z-index: -151;
+}
+
+.full body, .darkbloom.full body
+{
+color:#535353;
+color:#FFF;
+    text-shadow: 0 0 150px #FFF, 0 0 60px #FFF, 0 0 10px #FFF; 
+}
+
+
+.full p, .full li, .darkbloom.full p, .darkbloom.full li
+{
+color:#535353;
+color:#FFF;
+    text-shadow: 0 0 150px #FFF, 0 0 60px #FFF, 0 0 10px #FFF; 
+}
+
+
+.fancynumberedlist ol {
+background-color: #fff;
+padding: 2.4rem;
+-webkit-animation: fadeIn 0.6s ease-in-out;
+animation: fadeIn 0.6s ease-in-out;
+width:50%;
+margin:2em auto 2em auto;
+  box-shadow: 0 16px 24px rgba(0, 20, 80, 0.3);
+
+}
+
+
+
+h2
+{    font-size: 4.8rem;
+     line-height: 6.4rem;
+     font-weight:bold;
+     width:100%;}
+
+strong
+{margin-bottom: 3.2rem;
+ font-size:150%;
+ font-weight:normal;
+}
+
+em
+{
+    font-style:normal;
+    font-weight:bold;
+    font-size:100%;
+}
+
+
+
+h2,h3,h4 {
+    width:50% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+
+}
+

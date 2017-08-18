@@ -82,9 +82,9 @@ Choose words wisely, create meaning with them, keep it simple.
 
 ** *Why WebSlides?* Good karma and productivity. :slide:wrap:size60:bgwhite:shadow:flexblock:reasons:fancynumberedlist:
 1. We're web people.
-   - There're excellent presentation tools out there. WebSlides is about telling the story, and sharing it in a beautiful way. Hypertext and clean code as narrative elements.
+   There're excellent presentation tools out there. WebSlides is about telling the story, and sharing it in a beautiful way. Hypertext and clean code as narrative elements.
 2. Work better, faster.
-   - Designers, marketers, and journalists can now focus on the content. Simply [[https://webslides.tv/demos][choose a demo]] and customize it in minutes.
+   Designers, marketers, and journalists can now focus on the content. Simply [[https://webslides.tv/demos][choose a demo]] and customize it in minutes.
 
 
 *** Notes                                                             :notes:
@@ -97,7 +97,7 @@ Choose words wisely, create meaning with them, keep it simple.
 ** *Why WebSlides?*                      :slide:size50:textintro:
 *There are amazing presentation tools out there.*
 
-Everyone loves a good story. WebSlides is about *good karma*. This is
+Everyone loves a good story. WebSlides is about /good karma/. This is
 about telling the story, and sharing it in a beautiful way. How? Making
 HTML presentations easy. Hypertext, clean code, and beauty as narrative
 elements.
@@ -204,18 +204,25 @@ manage.
 - Displayed in Presenter Preview window
 - Only one =notes= section per slide allowed
 
-** Covers                              :slide:background:aligncenter:
+** Covers                              :slide:full:
 [[./webslides/static/images/webslides-images/california-mountains.jpg]]
 
 
-*** Notes                                                             :notes:
+
+*** Notes                               :notes:
 
 - Presenter notes for this slide
 - Not displayed as part of the slide
 - Displayed in Presenter Preview window
 - Only one =notes= section per slide allowed
 
-** California :slide:background:bgblack:aligncenter:
+
+** full screen image                   :slide:full:
+[[/Users/jay/Dropbox/Pics/own-background-wallpapers/perfectness/light-ocean_00428591.jpg]]
+
+
+
+** California :slide:background:bgblack:aligncenter:full:
 [[./webslides/static/images/webslides-images/yosemite.jpg]]
 
 #+BEGIN_EXPORT html
@@ -1602,16 +1609,19 @@ Sometimes it's safest to add an "empty" heading at the end of your document to m
 #+HTML_HEAD_EXTRA:
 
 
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./src/css/common.css" />
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./src/css/projection.css" media="projection" />
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./src/css/presenter.css" media="presenter" />
 
-
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/common.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/screen.css" media="screen" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/projection.css" media="projection" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/presenter.css" media="presenter" />
 
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/base.css" media="projection" />
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/colors.css" media="projection" />
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/svg-icons.css" media="projection" />
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/org-html-webslides.css" media="projection" />
+
+
+
 
 #+HTML_HEAD_EXTRA: <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
 
