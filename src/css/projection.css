@@ -49,9 +49,6 @@ em
 font-style:italic;
 }
 
-h1:first-letter, h2:first-letter, h3:first-letter, h4:first-letter {
- text-transform: capitalize;
-}
 
 .video-background {
 width: 100%;

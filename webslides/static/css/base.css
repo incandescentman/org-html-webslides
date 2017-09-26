@@ -462,7 +462,7 @@ img.alignleft,svg.alignleft,figure.alignleft {
     width: 60%;
   }
     .size-50, .size50,  {
-    width: 50%;
+    width: 100%;
   }
     .size-40, .size40,  {
     width: 40%;

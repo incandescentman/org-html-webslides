@@ -1,0 +1,382 @@
+#+TITLE: Effective Emails
+#+AUTHOR: Jay Dixit
+#+BEGIN_EXPORT HTML
+<p>Type <strong>T</strong> to begin the slide show.</p>
+#+END_EXPORT
+
+
+** Effective Emails :slide:aligncenter:
+
+#+HTML: <div class="splash-page">
+*Jay Dixit* \\
+[[http://www.storytelling.nyc][www.storytelling.nyc]] \\
+[[mailto:jay@storytelling.nyc][jay@storytelling.nyc]] \\
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/storytelling-nyc-logo-new-face.png]]
+
+
+#+HTML: </div>
+
+** QUESTION How to tell a good story?  :slide:
+
+
+* The story
+
+** NYT on storytelling                 :slide:
+#+BEGIN_EXPORT HTML
+<CENTER><iframe src="/Users/jay/Dropbox/storytelling-assets/Storytelling-Your-Way-to-a-Better-Job-or-a-Stronger-Startup---The-New-York-Times.pdf" width="800" height="800" style="zoom: 1.2"></iframe> </CENTER>
+#+END_EXPORT
+
+** A beginning, middle, and end        :slide:
+[[/Users/jay/Dropbox/github/jay-org-html-slideshow/slideshows/WeWork/img/aristotle.png]] \\
+
+
+** What's miss--g?                     :slide:
+
+** The plot pyramid                    :slide:
+[[https://hbr.org/resources/images/article_assets/2014/03/freytagpyramid.gif]]
+
+
+** Goal                                :slide:
+
+#+BEGIN_QUOTE
+"When I used to teach creative writing, I would tell the students to make their characters want something right away---even if it's only a glass of water.
+
+Characters paralyzed by the meaninglessness of modern life still have to drink water from time to time. One of my students wrote a story about a nun who got a piece of dental floss stuck between her lower left molars, and who couldn't get it out all day long. I thought that was wonderful. The story dealt with issues a lot more important than dental floss, but what kept readers going was anxiety about when the dental floss would finally be removed.
+
+Nobody could read that story without fishing around in his mouth with a finger."
+---Kurt Vonnegut
+#+END_QUOTE
+
+** Goal                                :slide:image30:
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+
+** Goal                             :slide:
+#+BEGIN_EXPORT HTML
+<div class="jayvideo">
+<video class="center" src="/Users/jay/Dropbox/storytelling-assets/Presto-Pixar.webmhd.webm" controls preload="auto"  ></video></div>
+#+END_EXPORT
+
+
+** Jay's Elements of *Storytelling*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
+
+#+HTML: <div class=icons>
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+
+#+HTML: </div>
+
+
+** What else? :slide:
+#+BEGIN_EXPORT HTML
+<div class="jayvideo">
+<video class="center" src="/Users/jay/Dropbox/storytelling-assets/Presto-Pixar.webmhd.webm" controls preload="auto"  ></video></div>
+#+END_EXPORT
+
+
+
+** Obstacle :slide:image30:
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+
+** Jay's Elements of *Storytelling*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
+
+#+HTML: <div class=icons>
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+
+#+HTML: </div>
+
+
+** Stakes                           :slide:
+
+** Stakes                           :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/cary-grant-gun-to-your-head.jpg]]
+
+** Stakes                           :slide:
+- Consequences for failure
+
+** Stakes                           :slide:
+- consequences for failure
+- why it matters
+
+** Stakes                           :slide:
+- consequences for failure
+- why it matters
+- can be emotional
+
+** The Hangover                        :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-phone-call-stakes.jpg]]
+
+** The Hangover: What's the *goal?*      :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-what-is-goal.jpg]]
+
+** The Hangover: What's the *goal?*      :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-what-is-goal-2.jpg]]
+
+** The Hangover: What's the *obstacle?*  :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-doug-arriving-hotel.png]]
+
+** The Hangover: What are the *stakes?*  :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-phone-call-stakes.jpg]]
+
+
+** The Hangover: What are the *stakes?*  :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-bride-angry.png]]
+
+
+** The Hangover: What are the *stakes?*  :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-bride-and-family.png]]
+
+** Stakes              :slide:image30:
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+
+** Jay's Elements of *Storytelling*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
+
+#+HTML: <div class=icons>
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+
+#+HTML: </div>
+
+
+** Strategies                       :slide:
+
+** Strategies                       :slide:image30:
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]
+
+
+** Strategies                       :slide:
+
+[[/Users/jay/Dropbox/storytelling-assets/Bourne-Identity-006.jpg]]
+
+** *How* will the character achieve their goal or escape their dilemma? :slide:
+
+[[/Users/jay/Dropbox/storytelling-assets/Bourne-Identity-006.jpg]]
+
+** Strategies                       :slide:
+*How* will the character achieve their goal or escape their dilemma?
+
+** Strategies                       :slide:
+
+#+BEGIN_EXPORT HTML
+<video class="center" src="/Users/jay/Dropbox/storytelling-assets/bourne/bourne-highlights.webm" controls preload></video>
+#+END_EXPORT
+
+** Jay's Elements of *Storytelling*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
+
+#+HTML: <div class=icons>
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+4. Strategies [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]
+
+#+HTML: </div>
+** Outcome                          :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/success-outcome-victory-summit.jpg]]
+
+** Outcome                          :slide:image30:
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/outcome.png]]
+
+
+
+** Jay's Elements of *Storytelling*      :slide:wrap:size60:bgwhite:shadow:flexblock:reasons:fancynumberedlist:image30:
+
+** The Storytelling.NYC Method         :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
+#+HTML: <div class=icons>
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+4. Strategies [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]
+5. Outcome [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/outcome.png]]
+
+#+HTML: </div>
+
+** Google ad: Reunion                  :slide:
+
+#+BEGIN_EXPORT HTML
+<div class="jayvideo">
+<video class="center" src="/Users/jay/Dropbox/storytelling-assets/video/google-reunion.webmhd.webm" controls preload="auto" width="1024" height="576" ></video></div>
+#+END_EXPORT
+
+
+
+** our strategic goal
+
+How to get them to open and read, based on the subject header
+
+How to get them to act
+
+
+
+How to be persuasive
+
+- Tell a story (give them the basics on this)
+- make a contrast
+- opposition
+- problem agitation solution
+- ask a question then answer it
+
+
+** Homework                            :slide:wrap:size60:bgwhite:shadow:flexblock:reasons:fancynumberedlist:
+
+#+HTML: <div class=icons>
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/noun_1166730_cc.png]]
+
+#+HTML: </div>
+
+** Homework                            :slide:wrap:size60:bgwhite:shadow:flexblock:reasons:fancynumberedlist:
+
+1. Send me 1-2 examples of outboud emails you've written that you feel are strong and 1-2 examples you think could be improved. (Due this Friday)
+2. Practice the Upworthy Method. For one email you write over the next week, write 25 variations on a headline and send them to me. (Due Monday)
+3. For Angela: Can you write a "you're making a mistake" email that's on-brand for NLI?
+
+** show the Google movie
+Goal / obstacle / solution
+
+opportunity / obstacle / solution
+
+** problem agitation solution
+
+
+** Ramit Sethi                         :slide:
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/problem-agitation-solution-ramit-sethi.png]]
+
+
+** Agitate
+
+Poke at that problem until it's visceral
+
+
+First you describe a problem, then you agitate by highlighting the emotions that go with the problem, and then you offer your solution.
+
+** features vs. benefits
+
+What's the feature
+
+OK and? So what? How does that improve my life?
+
+Present state vs. future state
+
+ask so what as many times as you can.
+#+BEGIN_QUOTE
+To define a benefit you ask yourself So what?
+
+- The oven preheats quickly
+- So what?
+- It’s quickly ready to start cooking your lasagna
+- So what?
+- Your food is on the table sooner
+- So what?
+- Life is less stressful
+- There’s less hanging around the kitchen waiting for the oven to get ready. And you don’t have to worry you might forget to preheat your oven.
+#+END_QUOTE
+Source: [[skim:///Users/jay/devonthink-databases/NLI.dtBase2/Files.noindex/pdf/0/Features%20vs%20Benefits-%20Use%20the%20"So%20What-"%20Question%20for%20Persuasive%20Copy.pdf::1][Features vs Benefits- Use the "So What-" Question for Persuasive Copy.pdf, p. 1]]
+
+
+
+** Steve jobs formula, now vs. where we want to be
+duarte
+
+
+
+
+** The End                             :slide:
+
+
+* Setup
+#+OPTIONS: num:nil toc:nil tags:t
+#+TAGS: slide(s)
+#+TODO: TODO EXAMPLE: SAMPLE: EXERCISE: QUESTION: EXAMPLE SAMPLE EXERCISE QUESTION PRINCIPLE DONE
+
+#+HTML_HEAD_EXTRA:
+#+HTML_HEAD_EXTRA:
+#+HTML_HEAD_EXTRA:
+#+HTML_HEAD_EXTRA:
+
+
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/common.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/screen.css" media="screen" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/projection.css" media="projection" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/presenter.css" media="presenter" />
+
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/base.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/colors.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/svg-icons.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/org-html-webslides.css" media="projection" />
+
+
+
+
+#+HTML_HEAD_EXTRA: <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
+
+#+BEGIN_EXPORT html
+<!-- SOCIAL CARDS (ADD YOUR INFO) -->
+
+  <!-- FACEBOOK -->
+  <meta property="og:url" content="http://your-url.com/permalink"> <!-- EDIT -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="WebSlides Landings: Create your web presence easily"> <!-- EDIT -->
+  <meta property="og:description" content="Create simple, beautiful landing pages with WebSlides. 120+ free slides ready to use."> <!-- EDIT -->
+  <meta property="og:updated_time" content="2017-01-04T16:54:27"> <!-- EDIT -->
+  <meta property="og:image" content="../static/images/share-webslides.jpg" > <!-- EDIT -->
+
+  <!-- TWITTER -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@webslides"> <!-- EDIT -->
+  <meta name="twitter:creator" content="@jlantunez"> <!-- EDIT -->
+  <meta name="twitter:title" content="WebSlides Landings: Create your web presence easily"> <!-- EDIT -->
+  <meta name="twitter:description" content="Create simple, beautiful landing pages with WebSlides. 120+ free slides ready to use."> <!-- EDIT -->
+  <meta name="twitter:image" content="../static/images/share-webslides.jpg"> <!-- EDIT -->
+
+  <!-- FAVICONS -->
+  <link rel="shortcut icon" sizes="16x16" href="../static/images/favicons/favicon.png">
+  <link rel="shortcut icon" sizes="32x32" href="../static/images/favicons/favicon-32.png">
+  <link rel="apple-touch-icon icon" sizes="76x76" href="../static/images/favicons/favicon-76.png">
+  <link rel="apple-touch-icon icon" sizes="120x120" href="../static/images/favicons/favicon-120.png">
+  <link rel="apple-touch-icon icon" sizes="152x152" href="../static/images/favicons/favicon-152.png">
+  <link rel="apple-touch-icon icon" sizes="180x180" href="../static/images/favicons/favicon-180.png">
+  <link rel="apple-touch-icon icon" sizes="192x192" href="../static/images/favicons/favicon-192.png">
+<!-- Android -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#333333">
+
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT HTML
+<script type="text/javascript" src="./out/development/org-html-slideshow.js"></script>
+#+END_EXPORT
+
+# Local Variables:
+# org-html-head-include-default-style: nil
+# org-html-head-include-scripts: nil
+# buffer-file-coding-system: utf-8-unix
+# eval: (define-key org-mode-map (kbd ":") 'insert-colon)
+# End:
+
+
+** The End                                                            :slide:
+
+Sometimes it's safest to add an "empty" heading at the end of your document to make sure the stylesheets and JavaScript are included.
+
+
+* brainstorming
+I'll teach
+- lock in the learning
+- storytelling structure
+  - goal, obstacle, stakes, strategy, outcome
+  - problem agitation solution
+  - features vs. benefits
+  - now vs. later.
+    - that TED talk about future state
+    - Duarte talk
+  - clarity and jargon
+  - trimming for concision
+  - visualness

@@ -2,11 +2,11 @@
   /* Set rules to fill background */
   min-height: 100% !important;
   min-width: 1024px;
-	
+
   /* Set up proportionate scaling */
   width: 100% !important;
   height: auto;
-	
+
   /* Set up positioning */
   position: fixed;
   top: 0;
@@ -22,11 +22,11 @@ opacity:1;
   /* Set rules to fill background */
   min-height: 100% !important;
   min-width: 1024px;
-	
+
   /* Set up proportionate scaling */
   width: 100% !important;
   height: auto;
-	
+
   /* Set up positioning */
   position: fixed;
   top: 0;
@@ -39,10 +39,10 @@ z-index:-150;
 .full h1, .full h2, .full h3, .full h4, .full h5, .full h6, .full h7, .full h8
 {
 color: #535353;
-text-shadow: 0 0 150px #FFF, 0 0 60px #FFF, 0 0 10px #FFF; 
+text-shadow: 0 0 150px #FFF, 0 0 60px #FFF, 0 0 10px #FFF;
 font-size:100px;
 }
- 
+
 .full,.darkbloom
 {
     position: absolute;
@@ -58,7 +58,7 @@ font-size:100px;
 {
 color:#535353;
 color:#FFF;
-    text-shadow: 0 0 150px #FFF, 0 0 60px #FFF, 0 0 10px #FFF; 
+    text-shadow: 0 0 150px #FFF, 0 0 60px #FFF, 0 0 10px #FFF;
 }
 
 
@@ -66,8 +66,16 @@ color:#FFF;
 {
 color:#535353;
 color:#FFF;
-    text-shadow: 0 0 150px #FFF, 0 0 60px #FFF, 0 0 10px #FFF; 
+    text-shadow: 0 0 150px #FFF, 0 0 60px #FFF, 0 0 10px #FFF;
 }
+
+.invisible h1, .invisible h2, .invisible h3, .invisible h4, .invisible h5, .invisible h6, .invisible h7, .invisible h8
+
+                                                                                                          {
+                                                                                                            display:none;
+
+                                                                                                          }
+
 
 
 .fancynumberedlist ol {
@@ -83,17 +91,13 @@ margin:2em auto 2em auto;
 
 
 
-h2
+h1,h2,h3
 {    font-size: 4.8rem;
-     line-height: 6.4rem;
+line-height: 6.4rem;
      font-weight:bold;
-     width:100%;}
-
-strong
-{margin-bottom: 3.2rem;
- font-size:150%;
- font-weight:normal;
+     width:100%;
 }
+
 
 em
 {
@@ -105,9 +109,289 @@ em
 
 
 h2,h3,h4 {
-    width:50% !important;
+    width:800px;
     margin-left: auto !important;
     margin-right: auto !important;
+    line-height:1.1;
+}
+
+
+
+blockquote p {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+span.todo.EXAMPLE_, span.todo.EXERCISE_, span.todo.SAMPLE_, span.todo.REVIEW_, span.todo.DEBRIEF_, span.todo.SAMPLE_, span.todo.QUESTION_, span.todo.EXAMPLE, span.todo.EXERCISE, span.todo.SAMPLE, span.todo.REVIEW, span.todo.DEBRIEF, span.todo.SAMPLE, span.todo.QUESTION, span.todo.PRINCIPLE {
+  font-weight: bold;
+    display: block;
+    margin-bottom:0;
+    color: #C92228; /* #C92228 = Pinterest red */
+    font-size:150%;
+}
+
 
 }
 
+
+.videowrapper-fullscreen {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.videowrapper-fullscreen iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+video {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top:1em;
+}
+
+.jayaudio {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+
+
+
+
+p strong, blockquote p strong {
+    color: #a94442;
+}
+
+
+div.splash-page figure img {
+    width: 300px;}
+
+
+blockquote p strong {
+    font-size: 100%;
+}
+
+ul.org-ul li strong {
+    font-size: 100%;
+}
+
+blockquote p a {
+  font-weight: bold;
+  color: #05ADF3;
+  text-shadow:none;
+}
+
+
+
+figure img {
+    max-height: 50%;
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+
+
+
+
+em {
+    color: #C92228;
+}
+
+
+
+h3 em {
+    color: #C92228;
+}
+
+
+h3 strong {
+  margin-bottom:0;
+  font-size:100%;
+}
+
+
+p strong {
+    font-weight: bold;
+}
+
+
+blockquote p strong {
+    display: inline;
+}
+
+
+#orgfb174b5 strong {
+    display: block;
+}
+
+div.icons figure img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 20%;
+}
+
+div.outline-text-3.outline-text p {
+    margin-left: auto ;
+    margin-right: auto ;
+    width: 100%  ;
+}
+
+figure img {
+    -o-object-fit: contain;
+    max-height: 50%;
+    object-fit: contain;
+}
+
+
+ol.org-ol li img {
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+
+.image30 img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 30%;
+}
+
+.image20 img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 20%;
+}
+
+
+.image15 img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 15%;
+}
+
+
+.image10 img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 10%;
+}
+
+
+
+ol.org-ol {
+    width: 100%;
+}
+
+
+
+.outline-text {
+    width: 50%;
+margin-left: auto;
+margin-right:auto;}
+
+p strong {
+    font-size: 100%;
+}
+
+.font150 {
+  font-size: 150%;
+}
+
+
+.font200 {
+  font-size: 200%;
+}
+
+
+.fontbold  {
+  font-weight:bold;
+}
+
+
+ol.org-ol
+{
+  margin-top:2em;
+}
+
+.fancynumberedlist ol.org-ol li {
+    margin-bottom: 1em;
+}
+
+.slide
+{margin-top:-2em;
+}
+
+
+ h1,  h2,  h3
+ {
+   margin-top:2em;
+   font-size:200%;
+}
+
+
+.compressed h1, .compressed h2, .compressed h3
+{
+  margin-top:-1em;
+}
+
+
+p, ol li, ul li {
+    font-size: 150%;
+}
+
+iframe
+{
+  margin-top:1em;
+}
+
+figure img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: 1em;
+    margin-bottom: 0;
+}
+
+p.image img, figure img, blockquote, pre.example
+{
+    margin-top: 1em;
+    margin-bottom:0;
+}
+
+.jayvideo
+{
+    margin-top: 2em;
+    margin-bottom:-2em;
+
+}
+
+.outline-text p, .outline-text ul {
+    margin-top: 2em;
+}
+
+h1 strong, h2 strong, h3 strong, h4 strong
+{
+color: #C92228; /* #C92228 = Pinterest red */
+}
+
+h1,h2,h3,h4,h5
+{
+  font-weight:bold;
+    font-size: 250%;
+
+}
+
+
+div.splash-page p strong {
+    font-size: 150%;
+}
