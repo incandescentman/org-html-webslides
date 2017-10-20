@@ -17,8 +17,22 @@
 
 #+HTML: </div>
 
-** QUESTION How to tell a good story?  :slide:
+** *3 QUALITIES* of an effective response email     :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
 
+1. *Relevant* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/noun_502032_cc.png]]
+2. *Personal* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/flamenco-couple-dance_318-56562.jpg]]
+3. *Persuasive* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/smoker-004-512.png]]
+
+** *PERSUASIVE*        :slide:image80:compressed:
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/smoker-004-512.png]]
+
+** Agenda :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
+1. Storytelling
+2. A structure for a persuasive outbound sales email
+
+** Storytelling                        :slide:
+
+** QUESTION How to tell a good story?  :slide:
 
 * The story
 
@@ -30,11 +44,13 @@
 ** A beginning, middle, and end        :slide:
 [[/Users/jay/Dropbox/github/jay-org-html-slideshow/slideshows/WeWork/img/aristotle.png]] \\
 
-
 ** What's miss--g?                     :slide:
 
-** The plot pyramid                    :slide:
-[[https://hbr.org/resources/images/article_assets/2014/03/freytagpyramid.gif]]
+** The plot pyramid                    :slide:full:invisible:
+[[/Users/jay/Dropbox/storytelling-assets/images/freytag-pyramid-large-colorful.jpg]]
+
+
+** What's miss--g?           :slide:
 
 
 ** Goal                                :slide:
@@ -61,10 +77,8 @@ Nobody could read that story without fishing around in his mouth with a finger."
 
 ** Jay's Elements of *Storytelling*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
 
-#+HTML: <div class=icons>
-1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
 
-#+HTML: </div>
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
 
 
 ** What else? :slide:
@@ -81,11 +95,9 @@ Nobody could read that story without fishing around in his mouth with a finger."
 
 ** Jay's Elements of *Storytelling*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
 
-#+HTML: <div class=icons>
 1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
 2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
 
-#+HTML: </div>
 
 
 ** Stakes                           :slide:
@@ -93,40 +105,47 @@ Nobody could read that story without fishing around in his mouth with a finger."
 ** Stakes                           :slide:
 [[/Users/jay/Dropbox/storytelling-assets/images/cary-grant-gun-to-your-head.jpg]]
 
-** Stakes                           :slide:
-- Consequences for failure
-
-** Stakes                           :slide:
-- consequences for failure
-- why it matters
-
-** Stakes                           :slide:
-- consequences for failure
-- why it matters
-- can be emotional
-
 ** The Hangover                        :slide:
 [[/Users/jay/Dropbox/storytelling-assets/images/hangover-phone-call-stakes.jpg]]
 
 ** The Hangover: What's the *goal?*      :slide:
-[[/Users/jay/Dropbox/storytelling-assets/images/hangover-what-is-goal.jpg]]
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-phone-call-stakes.jpg]]
 
 ** The Hangover: What's the *goal?*      :slide:
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-doug-car.png]]
+
+
+** The Hangover: What's the *goal?*      :slide:
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-doug-hotel-2.png]]
+
+** The Hangover: What's the *goal?*   :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-doug-rooftop-3.png]]
+
+** The Hangover: What's the *obstacle?* :slide:
+
+
+** The Hangover: What's the *obstacle?* :slide:
+
 [[/Users/jay/Dropbox/storytelling-assets/images/hangover-what-is-goal-2.jpg]]
 
+
 ** The Hangover: What's the *obstacle?*  :slide:
-[[/Users/jay/Dropbox/storytelling-assets/images/hangover-doug-arriving-hotel.png]]
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-what-is-goal.jpg]]
+
 
 ** The Hangover: What are the *stakes?*  :slide:
 [[/Users/jay/Dropbox/storytelling-assets/images/hangover-phone-call-stakes.jpg]]
 
 
+** The Hangover: What are the *stakes?* :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-bride-and-family.png]]
+
 ** The Hangover: What are the *stakes?*  :slide:
 [[/Users/jay/Dropbox/storytelling-assets/images/hangover-bride-angry.png]]
 
-
-** The Hangover: What are the *stakes?*  :slide:
-[[/Users/jay/Dropbox/storytelling-assets/images/hangover-bride-and-family.png]]
 
 ** Stakes              :slide:image30:
 
@@ -134,12 +153,9 @@ Nobody could read that story without fishing around in his mouth with a finger."
 
 ** Jay's Elements of *Storytelling*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
 
-#+HTML: <div class=icons>
 1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
 2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
 3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
-
-#+HTML: </div>
 
 
 ** Strategies                       :slide:
@@ -158,9 +174,6 @@ Nobody could read that story without fishing around in his mouth with a finger."
 [[/Users/jay/Dropbox/storytelling-assets/Bourne-Identity-006.jpg]]
 
 ** Strategies                       :slide:
-*How* will the character achieve their goal or escape their dilemma?
-
-** Strategies                       :slide:
 
 #+BEGIN_EXPORT HTML
 <video class="center" src="/Users/jay/Dropbox/storytelling-assets/bourne/bourne-highlights.webm" controls preload></video>
@@ -168,13 +181,11 @@ Nobody could read that story without fishing around in his mouth with a finger."
 
 ** Jay's Elements of *Storytelling*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
 
-#+HTML: <div class=icons>
 1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
 2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
 3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
 4. Strategies [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]
 
-#+HTML: </div>
 ** Outcome                          :slide:
 [[/Users/jay/Dropbox/storytelling-assets/images/success-outcome-victory-summit.jpg]]
 
@@ -182,19 +193,15 @@ Nobody could read that story without fishing around in his mouth with a finger."
 
 [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/outcome.png]]
 
-
-
 ** Jay's Elements of *Storytelling*      :slide:wrap:size60:bgwhite:shadow:flexblock:reasons:fancynumberedlist:image30:
 
 ** The Storytelling.NYC Method         :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
-#+HTML: <div class=icons>
 1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
 2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
 3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
 4. Strategies [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]
 5. Outcome [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/outcome.png]]
 
-#+HTML: </div>
 
 ** Google ad: Reunion                  :slide:
 
@@ -203,7 +210,7 @@ Nobody could read that story without fishing around in his mouth with a finger."
 <video class="center" src="/Users/jay/Dropbox/storytelling-assets/video/google-reunion.webmhd.webm" controls preload="auto" width="1024" height="576" ></video></div>
 #+END_EXPORT
 
-
+** Virtual Whiteboard: Reunion :slide:
 
 ** our strategic goal
 
@@ -221,19 +228,61 @@ How to be persuasive
 - problem agitation solution
 - ask a question then answer it
 
+** *PERSUASIVE*               :slide:image80:
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/smoker-004-512.png]]
+** A structure for a persuasive email   :slide:
+
+
+** Problem                             :slide:
+
+
+** Problem :slide:
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-problem.png]]
+
+** Agitation              :slide:
+
+** Agitation                           :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/3d-agitation.jpg]]
+
+** Agitation                           :slide:
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-agitation-your-life-sucks.png]]
+
+** Solution :slide:
+
+
+** Solution :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/3d-solution.jpg]]
+
+** Solution :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/man-in-hole-solution.jpg]]
+
+** A structure for a persuasive email :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image30:
+1. Problem [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-problem.png]]
+2. Agitation [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-agitation-your-life-sucks.png]]
+3. Solution [[/Users/jay/Dropbox/storytelling-assets/images/3d-solution.jpg]]
+
+** A structure for a persuasive email :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image20:
+1. Problem [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-problem.png]]
+2. Agitation [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-agitation-your-life-sucks.png]]
+3. Solution [[/Users/jay/Dropbox/storytelling-assets/images/3d-solution.jpg]]
+4. Call to Action [[/Users/jay/Dropbox/storytelling-assets/images/call-to-action-icon.jpg]]
+
+** Virtual Whiteboard: Reunion :slide:
+
 
 ** Homework                            :slide:wrap:size60:bgwhite:shadow:flexblock:reasons:fancynumberedlist:
-
-#+HTML: <div class=icons>
 [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/noun_1166730_cc.png]]
 
-#+HTML: </div>
-
 ** Homework                            :slide:wrap:size60:bgwhite:shadow:flexblock:reasons:fancynumberedlist:
 
-1. Send me 1-2 examples of outboud emails you've written that you feel are strong and 1-2 examples you think could be improved. (Due this Friday)
-2. Practice the Upworthy Method. For one email you write over the next week, write 25 variations on a headline and send them to me. (Due Monday)
-3. For Angela: Can you write a "you're making a mistake" email that's on-brand for NLI?
+1. Send me your rewrite of the email in Exercise #4.
+2. Choose an NLI product and write an outbound sales email using the problem / agitation / solution structure.
+
+
+** The End                             :slide:
+
+** Ramit Sethi                         :slide:
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/problem-agitation-solution-ramit-sethi.png]]
 
 ** show the Google movie
 Goal / obstacle / solution
@@ -241,10 +290,6 @@ Goal / obstacle / solution
 opportunity / obstacle / solution
 
 ** problem agitation solution
-
-
-** Ramit Sethi                         :slide:
-[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/problem-agitation-solution-ramit-sethi.png]]
 
 
 ** Agitate
@@ -283,15 +328,10 @@ Source: [[skim:///Users/jay/devonthink-databases/NLI.dtBase2/Files.noindex/pdf/0
 duarte
 
 
-
-
-** The End                             :slide:
-
-
 * Setup
 #+OPTIONS: num:nil toc:nil tags:t
 #+TAGS: slide(s)
-#+TODO: TODO EXAMPLE: SAMPLE: EXERCISE: QUESTION: EXAMPLE SAMPLE EXERCISE QUESTION PRINCIPLE DONE
+#+TODO: TODO EXAMPLE: SAMPLE: EXERCISE: QUESTION: EXAMPLE SAMPLE EXERCISE QUESTION PRINCIPLE DONE "Virtual Whiteboard:"
 
 #+HTML_HEAD_EXTRA:
 #+HTML_HEAD_EXTRA:

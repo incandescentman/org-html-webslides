@@ -1,0 +1,496 @@
+#+TITLE: Effective Emails
+#+AUTHOR: Jay Dixit
+#+BEGIN_EXPORT HTML
+<p>Type <strong>T</strong> to begin the slide show.</p>
+#+END_EXPORT
+
+
+** Effective Emails :slide:aligncenter:
+
+#+HTML: <div class="splash-page">
+*Jay Dixit* \\
+[[http://www.storytelling.nyc][www.storytelling.nyc]] \\
+[[mailto:jay@storytelling.nyc][jay@storytelling.nyc]] \\
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/storytelling-nyc-logo-new-face.png]]
+
+
+#+HTML: </div>
+
+** Agenda :slide:wrap:bgwhite:shadow:fancynumberedlist:
+1. Review of storytelling framework
+2. Other structures for persuasive emails
+3. Clarity and concision
+5. Review of homework: Problem, Agitation, Solution
+
+** Jay's Elements of *Storytelling*      :slide:invisible:full:
+[[/Users/jay/Dropbox/storytelling-assets/images/presto-rabbit-cage-desire-goal-obstacle.jpg]]
+
+
+** Jay's Elements of *Storytelling*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
+
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+
+
+
+** Stakes       :slide:image30:
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+
+** Stakes :slide:full:invisible:
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-what-is-goal.jpg]]
+
+
+** Stakes              :slide:full:invisible:
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-phone-call-stakes.jpg]]
+
+** Stakes              :slide:full:invisible:
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-bride-angry.png]]
+
+
+** Stakes              :slide:full:invisible:
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-bride-and-family.png]]
+
+** Jay's Elements of *Storytelling*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
+
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+
+** Strategies            :slide:image30:
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]
+
+** Strategies            :slide:full:invisible:darkbloom:
+
+[[/Users/jay/Dropbox/storytelling-assets/Bourne-Identity-006.jpg]]
+
+** Outcome                          :slide:image30: [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/outcome.png]]
+
+** Outcome                          :slide:full:invisible:
+[[/Users/jay/Dropbox/storytelling-assets/images/success-outcome-victory-summit.jpg]]
+
+** The Storytelling.NYC Method         :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+4. Strategies [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]
+5. Outcome [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/outcome.png]]
+
+** The *shapes* of *stories* :slide:
+
+** The *shapes* of *stories* :slide:
+[[/Users/jay/Dropbox/storytelling-assets/charts/kurt-vonnegut--the-shapes-of-stories-all-the-kinds.jpeg]]
+** The *shapes* of *stories* :slide:
+[[/Users/jay/Dropbox/storytelling-assets/charts/kurt-vonnegut--the-shapes-of-stories-all-the-kinds-1.jpeg]]
+
+** Man falls in a hole :slide:image80:
+[[/Users/jay/Dropbox/storytelling-assets/charts/details/man-in-hole.png]]
+
+** The Castaway :slide:full:invisible:
+http://i.ytimg.com/vi/MLnzF5NcAc4/maxresdefault.jpg
+
+** The Castaway :slide:full:invisible:
+https://i.ytimg.com/vi/ZbunWKwRg9o/maxresdefault.jpg
+
+** The Castaway :slide:full:invisible:
+http://ak5.picdn.net/shutterstock/videos/4000456/thumb/4.jpg
+
+** The Castaway :slide:full:invisible:
+http://i.huffpost.com/gen/2581364/images/o-TOM-HANKS-CAST-AWAY-facebook.jpg
+
+** The Castaway :slide:full:invisible:
+https://i.ytimg.com/vi/7bLQXZOzjFM/maxresdefault.jpg
+
+** Man falls in a hole :slide:image80:
+[[/Users/jay/Dropbox/storytelling-assets/charts/details/man-in-hole.png]]
+
+** A structure for a persuasive email :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image30:
+1. Problem [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-problem.png]]
+2. Agitation [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-agitation-your-life-sucks.png]]
+3. Solution [[/Users/jay/Dropbox/storytelling-assets/images/3d-solution.jpg]]
+
+** A structure for a persuasive email :slide:
+|---------------+-------------|
+| Storytelling  | Sales Email |
+|---------------+-------------|
+| Goal/Obstacle | Problem     |
+| Stakes        | Agitation   |
+| Strategy      | Solution    |
+|---------------+-------------|
+
+** The *shape* of a *story* :slide:
+** The *shape* of a *story* :slide:image80:
+[[/Users/jay/Dropbox/storytelling-assets/charts/details/boy-meets-girl.png]]
+
+** Boy meets girl :slide:image80:
+[[/Users/jay/Dropbox/storytelling-assets/charts/details/boy-meets-girl.png]]
+
+** Boy meets girl :slide:full:invisible:
+https://metrouk2.files.wordpress.com/2016/07/ad_214181254-e1469715492453.jpg
+
+** Boy meets girl :slide:full:invisible:
+https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2Fbd80ab25-9ca1-44be-9bd0-669a3066134e.png
+
+** Boy meets girl :slide:full:invisible:
+http://lwlcdn.lwlies.com/wp-content/uploads/2016/01/romeo-and-juliet-1996.jpg
+
+** A structure for a persuasive email  :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image20:
+1. Opportunity [[/Users/jay/Dropbox/storytelling-assets/images/icons/noun_diamond-object-of-desire.png]]
+2. Benefits [[/Users/jay/Dropbox/storytelling-assets/images/icons/benefits-icon.png]]
+3. Solution [[/Users/jay/Dropbox/storytelling-assets/images/icons/solution-icon.png]]
+
+** 1. Opportunity :slide:image60:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/noun_diamond-object-of-desire.png]]
+
+
+** 2. Benefits :slide:image60:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/benefits-icon.png]]
+
+
+** 3. Solution :slide:image60:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/solution-icon.png]]
+
+
+** A structure for a persuasive email :image20:
+|-----------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Storytelling                                                                                                                                  | Sales Email                                                                                                                                                    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| object of desire [[/Users/jay/Dropbox/storytelling-assets/images/icons/woman-object-of-desire.png]]                                               | Opportunity                                                              [[/Users/jay/Dropbox/storytelling-assets/images/icons/noun_diamond-object-of-desire.png]] |
+| Stakes                                                      [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]] | Benefits                                                              [[/Users/jay/Dropbox/storytelling-assets/images/icons/benefits-icon.png]]                    |
+| Strategy                                          [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]       | Solution [[/Users/jay/Dropbox/storytelling-assets/images/icons/solution-icon.png]]                                                                                 |
+|                                                                                                                                               |                                                                                                                                                                |
+|                                                                                                                                               |                                                                                                                                                                |
+|                                                                                                                                               |                                                                                                                                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+** Exercise: Opportunity / Benefits / Solution :slide:image80:
+How can you apply the Opportunity / Benefits / Solution framework in your own outgoing emails?
+
+
+
+** A structure for a persuasive email :slide:
+|-------------------------+-------------|
+| Storytelling            | Sales Email |
+|-------------------------+-------------|
+| Goal (object of desire) | Opportunity |
+| Stakes                  | Benefits    |
+| Strategy                | Solution    |
+|-------------------------+-------------|
+
+** Avoiding information *overload* :slide:
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/information-overload.jpg]]
+
+** Research room :slide:full:invisible:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/kill-your-darlings-nli.jpeg]]
+
+** 1. *Kill* your *darlings* :slide:image70:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/kill-your-darlings.png]]
+
+** 2. The reader is on a *need-to-know basis* :slide:image60:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/need-to-know-basis-icon.png]]
+
+** 3. Just enough fuel to keep the plane in the air :slide:image60:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/plane-fuel-2.png]]
+
+** Avoiding information *overload* :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image20:
+1. *Kill* your *darlings* [[/Users/jay/Dropbox/storytelling-assets/images/icons/kill-your-darlings.png]]
+2. The reader is on a *need-to-know* basis [[/Users/jay/Dropbox/storytelling-assets/images/icons/need-to-know-basis-icon.png]]
+3. *Just enough fuel* to keep the plane in the air [[/Users/jay/Dropbox/storytelling-assets/images/icons/plane-fuel-2.png]]
+
+** 3 steps to *clarity* and *concision*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image20:
+1. Use *active* verbs [[/Users/jay/Dropbox/storytelling-assets/images/icons/active-verb-icon.png]]
+2. Avoid *zombie* nouns [[/Users/jay/Dropbox/storytelling-assets/images/icons/jargon-1.png]]
+3. Trim for *concision* [[/Users/jay/Dropbox/storytelling-assets/images/icons/scissors-icon.png]]
+
+** 1. Use *active* verbs                   :slide:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/active-verb-icon.png]]
+
+** 1. Use *active* verbs                   :slide:
+Microsoft made the discovery that its feedback methodology failed to result in any appreciable performance improvement.
+
+** 1. Use *active* verbs                   :slide:
+Microsoft discovered that its feedback method did not improve performance.
+
+** 2. Avoid *zombie* nouns              :slide:image70:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/jargon-1.png]]
+
+** 2. Avoid *zombie* nouns              :slide:
+The rise of the planet's temperature is a result of greenhouse gases.
+
+** 2. Avoid *zombie* nouns              :slide:
+Greenhouse gases are causing the planet's temperature to rise.
+
+** 2. Avoid *zombie* nouns              :slide:
+Greenhouse gases are raising the planet's temperature.
+
+** Exercise: *Clarity* :slide:image70:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/exercises-icon.png]]
+
+** 3 steps to *clarity* and *concision*   :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image20:
+
+1. Use *active* verbs [[/Users/jay/Dropbox/storytelling-assets/images/icons/active-verb-icon.png]]
+2. Avoid *zombie* nouns [[/Users/jay/Dropbox/storytelling-assets/images/icons/jargon-1.png]]
+
+** 3. Trim for *concision* :slide:image70:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/scissors-icon.png]]
+
+** 3. Trim for *concision* :slide:image60:
+(As a separate step)
+
+** 3. Trim for *concision* :slide:
+Our biases operate in large part in order to protect us---which is why they are self-serving.
+
+** 3. Trim for *concision* :slide:
+Our biases are self-serving because they exist to protect us.
+
+** 3 steps to *clarity* and *concision*   :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image20:
+1. Use *active* verbs [[/Users/jay/Dropbox/storytelling-assets/images/icons/active-verb-icon.png]]
+2. Avoid *zombie* nouns [[/Users/jay/Dropbox/storytelling-assets/images/icons/jargon-1.png]]
+3. Trim for *concision* [[/Users/jay/Dropbox/storytelling-assets/images/icons/scissors-icon.png]]
+
+** Exercise: *Concision*               :slide:image70:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/exercises-icon.png]]
+
+
+** Exercise: Problem, Agitation, Solution :slide:image70:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/exercises-icon.png]]
+
+** Review                              :slide:image70:
+[[/Users/jay/Dropbox/storytelling-assets/images/icons/memory-icon-3.png]]
+
+** *3 QUALITIES* of an effective response email   :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image20:
+1. *Relevant* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/noun_502032_cc.png]]
+2. *Personal* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/flamenco-couple-dance_318-56562.jpg]]
+3. *Persuasive* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/smoker-004-512.png]]
+
+** The Three R's of Relevance :slide:wrap:size60:bgwhite:shadow:flexblock:reasons:fancynumberedlist:
+1. *Responsive* Answers their question directly and explicitly.
+2. *Relevant* To the prospect's situation and needs.
+3. *Restrained* With no unnecessary information.
+
+** Theory of Mind :slide:
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/videogame-state-levels-theory-of-mind.png]]
+
+** *Subject headers* that make people *open* and *read* :slide:
+
+** Curiosity :slide:invisible:full:
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/videogame-brain-desire.png]]
+
+** Don't let the *rope* go *slack*
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/man_heaving_on_rope.png]]
+
+** Curiosity :slide:full:
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/curiosity-icon.jpg]]
+
+** The *Elements* of *Storytelling*          :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
+
+** The *Elements* of *Storytelling* :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image10:
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+4. Strategies [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]
+5. Outcome [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/outcome.png]]
+
+** *2 Structures* for a Sales Email
+
+** Problem / Agitation / Solution :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image30:
+1. Problem [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-problem.png]]
+2. Agitation [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-agitation-your-life-sucks.png]]
+3. Solution [[/Users/jay/Dropbox/storytelling-assets/images/3d-solution.jpg]]
+
+
+** Opportunity / Benefits / Solution    :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image20:
+1. Opportunity [[/Users/jay/Dropbox/storytelling-assets/images/icons/noun_diamond-object-of-desire.png]]
+2. Benefits [[/Users/jay/Dropbox/storytelling-assets/images/icons/benefits-icon.png]]
+3. Solution [[/Users/jay/Dropbox/storytelling-assets/images/icons/solution-icon.png]]
+
+** 3 steps to *clarity* and *precision*      :slide:wrap:bgwhite:shadow:fancynumberedlist:compressed:image20:
+1. Use *active* verbs [[/Users/jay/Dropbox/storytelling-assets/images/icons/active-verb-icon.png]]
+2. Avoid *zombie* nouns [[/Users/jay/Dropbox/storytelling-assets/images/icons/jargon-1.png]]
+3. Trim for *concision* [[/Users/jay/Dropbox/storytelling-assets/images/icons/scissors-icon.png]]
+
+
+** Effective Emails :slide:aligncenter:
+
+#+HTML: <div class="splash-page">
+*Jay Dixit* \\
+[[http://www.storytelling.nyc][www.storytelling.nyc]] \\
+[[mailto:jay@storytelling.nyc][jay@storytelling.nyc]] \\
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/storytelling-nyc-logo-new-face.png]]
+#+HTML: </div>
+
+** The End                             :slide:
+
+** show the Google movie
+Goal / obstacle / solution
+
+opportunity / obstacle / solution
+
+** problem agitation solution
+
+
+** Agitate
+
+Poke at that problem until it's visceral
+
+
+First you describe a problem, then you agitate by highlighting the emotions that go with the problem, and then you offer your solution.
+
+** features vs. benefits
+
+What's the feature
+
+OK and? So what? How does that improve my life?
+
+Present state vs. future state
+
+ask so what as many times as you can.
+#+BEGIN_QUOTE
+To define a benefit you ask yourself So what?
+
+- The oven preheats quickly
+- So what?
+- It’s quickly ready to start cooking your lasagna
+- So what?
+- Your food is on the table sooner
+- So what?
+- Life is less stressful
+- There’s less hanging around the kitchen waiting for the oven to get ready. And you don’t have to worry you might forget to preheat your oven.
+#+END_QUOTE
+Source: [[skim:///Users/jay/devonthink-databases/NLI.dtBase2/Files.noindex/pdf/0/Features%20vs%20Benefits-%20Use%20the%20"So%20What-"%20Question%20for%20Persuasive%20Copy.pdf::1][Features vs Benefits- Use the "So What-" Question for Persuasive Copy.pdf, p. 1]]
+
+
+
+** Steve jobs formula, now vs. where we want to be
+duarte
+
+
+* Setup
+#+OPTIONS: num:nil toc:nil tags:t
+#+TAGS: slide(s)
+#+TODO: TODO EXAMPLE: SAMPLE: EXERCISE: QUESTION: EXAMPLE SAMPLE EXERCISE QUESTION PRINCIPLE DONE "Virtual Whiteboard:"
+
+#+HTML_HEAD_EXTRA:
+#+HTML_HEAD_EXTRA:
+#+HTML_HEAD_EXTRA:
+#+HTML_HEAD_EXTRA:
+
+
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/common.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/screen.css" media="screen" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/projection.css" media="projection" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/web-design/custom-css/sexy-tables.css" media="projection" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/Users/jay/Dropbox/github/org-html-webslides/src/css/presenter.css" media="presenter" />
+
+
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/base.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/colors.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/svg-icons.css" media="projection" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./webslides/static/css/org-html-webslides.css" media="projection" />
+
+
+
+
+#+HTML_HEAD_EXTRA: <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
+
+#+BEGIN_EXPORT html
+<!-- SOCIAL CARDS (ADD YOUR INFO) -->
+
+  <!-- FACEBOOK -->
+  <meta property="og:url" content="http://your-url.com/permalink"> <!-- EDIT -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="WebSlides Landings: Create your web presence easily"> <!-- EDIT -->
+  <meta property="og:description" content="Create simple, beautiful landing pages with WebSlides. 120+ free slides ready to use."> <!-- EDIT -->
+  <meta property="og:updated_time" content="2017-01-04T16:54:27"> <!-- EDIT -->
+  <meta property="og:image" content="../static/images/share-webslides.jpg" > <!-- EDIT -->
+
+  <!-- TWITTER -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@webslides"> <!-- EDIT -->
+  <meta name="twitter:creator" content="@jlantunez"> <!-- EDIT -->
+  <meta name="twitter:title" content="WebSlides Landings: Create your web presence easily"> <!-- EDIT -->
+  <meta name="twitter:description" content="Create simple, beautiful landing pages with WebSlides. 120+ free slides ready to use."> <!-- EDIT -->
+  <meta name="twitter:image" content="../static/images/share-webslides.jpg"> <!-- EDIT -->
+
+  <!-- FAVICONS -->
+  <link rel="shortcut icon" sizes="16x16" href="../static/images/favicons/favicon.png">
+  <link rel="shortcut icon" sizes="32x32" href="../static/images/favicons/favicon-32.png">
+  <link rel="apple-touch-icon icon" sizes="76x76" href="../static/images/favicons/favicon-76.png">
+  <link rel="apple-touch-icon icon" sizes="120x120" href="../static/images/favicons/favicon-120.png">
+  <link rel="apple-touch-icon icon" sizes="152x152" href="../static/images/favicons/favicon-152.png">
+  <link rel="apple-touch-icon icon" sizes="180x180" href="../static/images/favicons/favicon-180.png">
+  <link rel="apple-touch-icon icon" sizes="192x192" href="../static/images/favicons/favicon-192.png">
+<!-- Android -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#333333">
+
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT HTML
+<script type="text/javascript" src="./out/development/org-html-slideshow.js"></script>
+#+END_EXPORT
+
+# Local Variables:
+# org-html-head-include-default-style: nil
+# org-html-head-include-scripts: nil
+# buffer-file-coding-system: utf-8-unix
+# eval: (define-key org-mode-map (kbd ":") 'insert-colon)
+# End:
+
+
+** The End                                                            :slide:
+
+Sometimes it's safest to add an "empty" heading at the end of your document to make sure the stylesheets and JavaScript are included.
+
+
+* brainstorming
+I'll teach
+- lock in the learning
+- storytelling structure
+  - goal, obstacle, stakes, strategy, outcome
+  - problem agitation solution
+  - features vs. benefits
+  - now vs. later.
+    - that TED talk about future state
+    - Duarte talk
+  - clarity and jargon
+  - trimming for concision
+  - visualness
+* solutions
+Microsoft and NLI collaborated on a thinking partnership to develop a customized feedback model, which they used to develop a training pilot.
+
+NLI designed a Performance Management Executive Briefing and presented at CONNECT to senior business leaders. This early, top-down support enabled BevMo!'s to achieve real behavior change.
+
+The team then designed interactive training tailored to employees at each of three levels: Corporate Vice Presidents, Partners, and High Potentials.
+
+* change agility
+Hi James,
+
+We understand that change is a big topic of conversation for most organizations these days, as we are living in an environment where the status quo is no longer enough. Unfortunately, 70% of change initiatives fail to bring together employees to stand behind change and embed the 'new' into their everyday behaviors.
+
+The problem is that most employees view their skills as innate and unchangeable. In this mode---known as a Fixed Mindset---the brain sees change as a threat. As a result, employees become anxious and defensive, get bogged down in details, and focus on problems instead of solutions.
+
+The solution is to shift your organizational mindset. When employees adopt a Growth Mindset, they come to see change not as a threat but as a welcome challenge. Negative emotions become motivating, and they respond to failure by rising to the occasion, putting in more effort, and setting stretch goals. Equipped with a Growth Mindset, employees become more resilient, more creative, and better able to achieve goals and thrive in the face of uncertainty.
+
+Join the NeuroLeadership Institute for a 45-minute webinar on ADAPT: The Neuroscience of Change Agility to provide employees and leaders with the habits needed to promote and sustain change.
+
+We look forward to your participation.
+
+** agenda
+5:00 review
+5:20 opportunity
+5:25 write an email of the form opportunity
+5:30 clarity exercise
+5:35 concision exercise
+5:40 problem, agitation, solution homework
+5:45 presenting the revised version
+5:48 thanks everyone

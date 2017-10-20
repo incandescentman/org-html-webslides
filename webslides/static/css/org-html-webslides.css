@@ -197,7 +197,7 @@ blockquote p a {
 
 
 figure img {
-    max-height: 50%;
+    max-height: 560px !important;
     -o-object-fit: contain;
     object-fit: contain;
 }
@@ -259,6 +259,46 @@ ol.org-ol li img {
     -o-object-fit: contain;
     object-fit: contain;
 }
+
+.image90 img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 90%;
+}
+
+.image80 img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 80%;
+}
+
+.image70 img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 70%;
+}
+
+.image60 img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 60%;
+}
+
+
+.image50 img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 50%;
+}
+
+
+.image40 img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 40%;
+}
+
+
 
 .image30 img {
     -o-object-fit: contain;
