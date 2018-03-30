@@ -1,6 +1,6 @@
 .darkbloom.fullscreen img, .darkbloom.fullscreen img p {
   /* Set rules to fill background */
-  min-height: 100% !important;
+  min-height: 100%;
   min-width: 1024px;
 
   /* Set up proportionate scaling */
@@ -87,6 +87,10 @@ font-size:100px;
     background-color: #000000;
     z-index: -151;
     color:#fff;
+}
+
+.darkbloom em
+{    color:#fff;
 }
 
 .lightbloom
@@ -304,7 +308,7 @@ figure img {
 
 .full figure img {
     -o-object-fit: contain;
-    max-height:8000px !important;
+    max-height:8000px;
     object-fit: contain;
 }
 
@@ -537,7 +541,8 @@ blockquote:after
 
 .thoughtbubble p {
   position: fixed;
-top:100px;
+  top:100px;
+  left:0;
 text-align: left;
 margin-left:1.5em !important;
 font-size:300%;
@@ -567,4 +572,30 @@ margin-left:0.7em !important;
 font-size:600%;
 width:50% !important;
 line-height:1.5;
+}
+
+
+
+blockquote p em {
+    color: #000;
+    font-weight: 300;
+    font-style: italic;
+}
+
+pre.example {color:#000}
+
+
+p.image strong {
+    font-size: 200%;
+}
+
+ul.org-ul li strong {
+    color: #C92228;
+    undefined: undefined;
+}
+
+#presenter-next-slide figure img, #presenter-current-slide figure img, #presenter-current-slide .fullscreen img
+{
+  width:600px !important;
+  z-index:151 !important;
 }
