@@ -1,0 +1,401 @@
+#+TITLE: Effective Emails: Week 1
+#+AUTHOR: Jay Dixit
+
+
+
+
+* Intro
+
+
+** Effective Emails
+
+#+HTML: <div class="splash-page">
+*Jay Dixit* \\
+Storytelling.NYC \\
+jay@storytelling.nyc \\
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/storytelling-nyc-logo-new-face.png]]
+
+#+HTML: </div>
+
+*** Notes                                :notes:noexport:noexport:noexport:
+Welcome everyone. My name is Jay Dixit.
+
+** Effective Emails
+*** Notes                                :notes:noexport:noexport:noexport:
+Today we're going to talk about how to write effective emails.
+
+** Effective /Sales/ Emails
+
+*** Notes                                :notes:noexport:noexport:noexport:
+Specifically, effective *sales* emails.
+** Effective Sales /Response/ Emails
+
+*** Notes                                :notes:noexport:noexport:noexport:
+And specifically, *today* we're going to talk about how to get better at writing *response* emails to prospects.
+
+Sooooooo. I want going to start by asking you guys a question.
+
+** QUESTION What do typically think about when we write emails?
+
+*** Notes                                :notes:noexport:noexport:noexport:
+What *questions* do you usually ask yourself as you're writing an email?
+- what should I say?
+- what information should I include?
+- what links
+- where do I draw information from
+
+These are *low-level of construal.*
+
+I want to give you guys a framework for thinking about this in a different way.
+
+So we can develop *habits*.
+
+** Pop goes the...
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/weasel.jpg]]
+
+#+BEGIN_EXPORT HTML
+<div class=jayaudio>
+<audio preload="auto" controls>
+ <source src="/Users/jay/Dropbox/github/org-html-webslides/assets/audio/pop-goes-the-weasel-instrumental.mp3">
+ Browser doesn't support HTML5 audio.
+</audio>
+</div>
+#+END_export
+
+*** Notes                                :notes:noexport:noexport:noexport:
+Pop goes the weasel.
+
+I'm just going to stop it right there.
+
+How do you guys feel?
+
+Hmm...
+
+** Mind Control
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/videogame-brain-desire.png]]
+
+
+** This American Life: "Cringe"
+
+#+BEGIN_EXPORT HTML
+<audio class="center" src="/Users/jay/Dropbox/storytelling-assets/audio/cringe-1-first-part-only.mp3" controls preload></audio>
+#+END_EXPORT
+
+*** Notes                                :notes:noexport:noexport:noexport:
+Let me give you another example.
+
+Ira Glass, This American Life.
+** *Nobody* turns off the radio at this point
+*Why?*
+
+*** Notes                                :notes:noexport:noexport:noexport:
+QUESTION: How do you guys feel?
+Is that OK?
+How do you feel?
+You have a question you want ANSWERED.
+An emotion.
+- desire to know more
+What is it you want to know?
+And *WHERE* is all this happening?
+
+** Writing with the customer in mind
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/mind02.jpg]]
+
+*** Notes                                :notes:noexport:noexport:noexport:
+*WHERE* is all this happening?
+
+In the mind of the listener.
+
+That's when I want to start to do is to give you guys some habits for writing with the customer in mind.
+
+Thinking about the MIND of the prospect while you're writing.
+
+OK so let's recap. What's the fact pattern so far?
+
+What do we know? Where does this take place?
+** Hallway
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/hallway.jpg]]
+
+*** Notes                                :notes:noexport:noexport:noexport:
+OK so there's a hallway...
+
+What's special?
+
+Everything is not as it seems...
+
+** No glasses
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/glasses-vision.jpg]]
+
+*** Notes                                :notes:noexport:noexport:noexport:
+The detail: he's not wearing his glasses!!!
+
+** Blurry hallway
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/hallway-blurry.gif]]
+
+*** Notes                                :notes:noexport:noexport:noexport:
+OK so he can't see...
+
+What's the question we want to know the answer to?
+
+YES! WHO is it?
+
+You guys want to hear the rest?
+
+** This American Life: "Cringe," Part Two
+
+#+BEGIN_EXPORT HTML
+<audio class="center" src="/Users/jay/Dropbox/storytelling-assets/audio/cringe-2-last-part-only.mp3" controls preload></audio>
+#+END_EXPORT
+
+** *Writing* with the customer *in mind*
+
+*** Notes                                :notes:noexport:noexport:noexport:
+
+** Writing with the reader in mind
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/writing-with-the-reader-in-mind-crop.jpg]]
+
+** curiosity
+#+BEGIN_QUOTE
+Humans have a natural desire for closure– we don't like having gaps in our knowledge. You can leverage this desire for closure by leaving your subject line open-ended so subscribers will be curious, like a cliffhanger that can only be satisfied by opening the email. You can make subscribers curious by asking a question (and answering it in your email), promising something interesting (like pictures or a surprise gift), or simply saying something that sounds strange or unusual.
+#+END_QUOTE
+
+
+** An inquiry about D&I
+
+#+BEGIN_QUOTE
+My name is Ellen. We haven't met but a colleague recommended I speak to you, she had worked with you before and suggested you might be able to help us think about our overall D & I strategy. What is your approach to D & I and unconscious bias? We are a technology and media company with offices in 20 countries and around 60,000 employees, and I look after HR and talent. Our HQ is based in Philadelphia.
+
+Ellen Page
+VP of Human Resources
+Sanfino Corporation
+
+#+END_QUOTE
+
+** Sample response (all text pasted from actual NLI emails)
+
+#+BEGIN_QUOTE
+Hello,
+
+Hope you are doing well.
+
+The NeuroLeadership Institute has operations in 24 countries and our content and frameworks have been designed for a global audience. D&I is an area which we have been heavily invested in over the last year and a half now and we've already been making major inroads in the market.
+
+In regard to D&I, the benefits derived from diverse teams have become
+increasingly clear ([[https://hbr.org/2016/11/why-diverse-teams-are-smarter][click here]] to learn more). NLI tackles this piece by stressing the importance of team coherence. While conventional wisdom says homogeneous teams create the best work, research has uncovered that it is actually heterogeneous teams that live on the cutting-edge of innovation though they may be more difficult to navigate. Therefore, it is important for organizations to facilitate inclusive teams to bring out the best of each teammate.
+
+NLI's approach revolves around utilizing our SCARF model to alleviate interpersonal tension, minimizing what we call, the threat state. Research shows that when we are threatened, our brains shut down and cannot properly process information (threat elicits the fight-or-flight response). When we feel safe in a social situation, or are in what we call a toward state, we think clearer and are open to ideas and collaboration.
+
+For your review, I have attached an article from s+b (Managing With the Brain in Mind) to this email. While this article is not directly tied to our inclusion work, it clearly outlines the research foundation for the SCARF model and will be helpful in framing our approach.
+
+After you review the material sent here, we can schedule a meeting with our Senior Consultant for Performance management to answer any questions or concerned you may have.
+
+I will circle back with you in the next couple of days with some time availability to offer more insights that can help you with the challenges you and your team might be facing around your D&I strategy.
+
+Please let me know what works best for you as I am happy to coordinate.
+#+END_QUOTE
+
+*** Notes                                :notes:noexport:noexport:noexport:
+READ COUNTEREXAMPLE
+
+1. Let's take a look at it and why it isn't working
+2. They'll say qualities
+3. I chart it up
+
+** A different approach
+#+BEGIN_QUOTE
+Hi Ellen,
+
+Good to hear from you, and thank you so much for reaching out. Absolutely, I'd be more than happy to talk about how NLI can help you with your D&I strategy.
+
+As you think about how to address D&I at Sanfino, I'll start by saying I think this is a really tricky challenge. [[Https://hbr.org/2016/07/why-diversity-programs-fail][Most D&I programs fail]] because they focus on trying to make individuals less biased, which doesn't work because bias is unconscious. At NLI, we focus instead on taking the bias out of *decisions,* teaching organizations how to structure processes so as to sidestep the pitfalls of our biased brains.
+
+So far we've helped improve decision making at 40 companies, including [[https://neuroleadership.com/portfolio-items/case-study-blackrock-breaking-bias/][BlackRock]] and [[https://neuroleadership.com/portfolio-items/nli-transforms-intel-culture/][Intel]], and most of our clients still use our tools at least once a week.
+
+I'd love to set up a time to talk on the phone so I can hear more about your objectives. I'm available for a quick call at the following times:
+
+- Monday Oct 6, 1:00pm
+- Wednesday Oct 8, 4:00pm
+- Friday Oct 10, 9:00am
+
+Do any of those times work for you?
+
+I look forward to connecting!
+
+Best, \\
+Jay
+#+END_QUOTE
+
+*** Notes                                :notes:noexport:noexport:noexport:
+- Discuss how/why the mentor text is better
+- Chart what they say
+- Look for connections to my framework
+
+** PRINCIPLE Writing with the reader in mind
+
+** *3 QUALITIES* of an effective response email isible:
+#+HTML: <div class=icons>
+1. *Relevant* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/noun_502032_cc.png]]
+2. *Personal* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/flamenco-couple-dance_318-56562.jpg]]
+3. *Persuasive* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/smoker-004-512.png]]
+
+#+HTML: </div>
+*** Notes                                                             :notes:noexport:noexport:noexport:
+In each session we'll discuss one of these qualities and how we can develop these qualities in our own emails
+
+** *3 QUALITIES* of an effective response email
+#+HTML: <div class=icons>
+1. *Relevant* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/noun_502032_cc.png]]
+2. *Personal* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/flamenco-couple-dance_318-56562.jpg]]
+3. *Persuasive* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/smoker-004-512.png]]
+
+#+HTML: </div>
+*** Notes                                                             :notes:noexport:noexport:noexport:
+In each session we'll discuss one of these qualities and how we can develop these qualities in our own emails
+
+** *RELEVANCE*
+#+HTML: <div class=icons> 
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/noun_502032_cc.png]]
+#+HTML: </div>
+
+*** Notes                                :notes:noexport:noexport:noexport:
+
+Today we're going to focus on *relevance*.
+
+** Theory of mind
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/Buy-Laptops-in-Bulk-Step-9.jpg]]
+
+*** Notes                                :notes:noexport:noexport:noexport:
+QUESTION: What can you think about when you're responding to a sales email?
+
+- What do they want?
+- What do they want to know?
+
+** Theory of mind
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/videogame-state-levels-theory-of-mind.png]]
+
+*** Notes                                :notes:noexport:noexport:noexport:
+It helps to almost have an avatar of the reader in your mind
+
+- What are the reader's *wants*
+- What does the reader know / not know
+- How does the reader feel
+
+What's the psych term for this?
+- theory of mind
+- mentalizing
+- perspective taking
+
+** The Three R's of Relevance
+1. *Responsive* Answers their question directly and explicitly.
+2. *Relevant* To the prospect's situation and needs.
+3. *Restrained* With no unnecessary information.
+
+** 1. Responsive
+- Answers their question directly and explicitly
+
+** Responsive
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/batman-answer-the-question.png]]
+
+*** Notes                                :notes:noexport:noexport:noexport:
+Answer:
+- what did they ask?
+- what do they actually need?
+
+QUESTION: What happens if what you're telling them is relevant to their question, but they don't realize that it is? They don't realize it's actually answering their question?
+
+ANSWER: That's just as bad as random nonsense.
+
+If they don't know it's relevant, and why it's relevant, then it's meaningless to them.
+
+** 2. Relevant
+- Never provide information without making it clear why it's relevant to the prospect
+
+*** Notes                                :notes:noexport:noexport:noexport:
+Never provide information without telling them why it's relevant to them.
+
+If you're copy-pasting a bunch of info about NLI and our achievements, you're not writing with the reader in mind
+
+Sound like you copy-pasted it from a Wikipedia article
+
+The prospect should NEVER EVER be able to say "wait why are they telling me this?"
+
+SNEAK the information in in the context of answering their question. e.g. here's why I think we could help you
+
+** Relevant
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/man_heaving_on_rope.png]]
+
+*** Notes                                :notes:noexport:noexport:noexport:
+Rope metaphor.
+
+Don't let the rope go slack.
+
+** 3. Restrained
+- The prospect is on a need to know basis
+
+** The prospect is on a need to know basis
+[[/Users/jay/Dropbox/storytelling-assets/need-to-know-basis.jpg]]
+
+** It's not about you.
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/kim_k_selfie.jpg]]
+
+** The Three R's of Relevance
+1. *Responsive* Answer the frickin' question.
+2. *Relevant* Don't let the rope go slack.
+3. *Restrained* It's not about you.
+
+** EXERCISE Mentor text analysis
+#+BEGIN_QUOTE
+Hi Ellen,
+
+Good to hear from you, and thank you so much for reaching out. Absolutely, I'd be more than happy to talk about how NLI can help you with your D&I strategy.
+
+As you think about how to address D&I at Sanfino, I'll start by saying I think this is a really tricky challenge. [[Https://hbr.org/2016/07/why-diversity-programs-fail][Most D&I programs fail]] because they focus on trying to make individuals less biased, which doesn't work because bias is unconscious. At NLI, we focus instead on taking the bias out of *decisions,* teaching organizations how to structure processes so as to sidestep the pitfalls of our biased brains.
+
+So far we've helped improve decision making at 40 companies, including [[https://neuroleadership.com/portfolio-items/case-study-blackrock-breaking-bias/][BlackRock]] and [[https://neuroleadership.com/portfolio-items/nli-transforms-intel-culture/][Intel]], and most of our clients still use our tools at least once a week.
+
+I'd love to set up a time to talk on the phone so I can hear more about your objectives. I'm available for a quick call at the following times:
+
+- Monday Oct 6, 1:00pm
+- Wednesday Oct 8, 4:00pm
+- Friday Oct 10, 9:00am
+
+Do any of those times work for you?
+
+I look forward to connecting!
+
+Best, \\
+Jay
+#+END_QUOTE
+
+*** Notes                :notes:noexport:noexport:noexport:
+Go back to the mentor text and focus in one just one of the qualities. Relevance. What are the *techniques* the writer used to make their email relevant?
+
+Have them work in partners.
+
+** EXERCISE Writing the relevant response email
+
+*** Notes                                :notes:noexport:noexport:noexport:
+On your own, do the assignment.
+
+** Homework
+
+#+HTML: <div class=icons>
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/noun_1166730_cc.png]]
+
+1. *Collect examples of emails that display the qualities we've discussed---ideally, in an email you write in the next week.*
+2. *Alternatively, take a past email and revise it to make it better.*
+#+HTML: </div>
+
+
+*** Notes                                :notes:noexport:noexport:noexport:
+Homework: collect real examples of what we just talked about. In an email you write in the next week ideally.
+
+Alternatively: Take a paragraph of a past email you wrote and revise it to make it better.
+
+** The End
+
+
+* export settings                     :ARCHIVE:noexport:
+#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='/Users/jay/Dropbox/web-design/custom-css/gmail.css' />
+#+OPTIONS:  H:6 num:nil toc:nil :nil @:t ::t |:t ^:t -:t f:t *:t <:t

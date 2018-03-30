@@ -74,10 +74,7 @@ This slide is a *level-3* Org-Mode heading, inside the previous one.
 <iframe class="ytvid" width="800" height="450" src="https://www.youtube.com/embed/9zSVu76AX3I" allowfullscreen></iframe>
 
 </div>
- </div>
-
-
-
+ </div> 
 #+END_export
 
 * Presenter Notes                                                     :slide:

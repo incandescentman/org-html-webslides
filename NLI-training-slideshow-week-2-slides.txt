@@ -1,0 +1,120 @@
+#+TITLE: Effective Emails: Week 2
+#+AUTHOR: Jay Dixit
+
+
+* Intro
+
+
+** Effective Emails
+
+#+HTML: <div class="splash-page">
+*Jay Dixit* \\
+Storytelling.NYC \\
+jay@storytelling.nyc \\
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/storytelling-nyc-logo-new-face.png]]
+
+#+HTML: </div>
+
+** Agenda
+*** Notes                                :notes:noexport:
+Today we're going to talk about how to write effective emails.
+
+** *RELEVANCE*
+#+HTML: <div class=icons>
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/noun_502032_cc.png]]
+#+HTML: </div>
+
+*** Notes                :notes:noexport:
+
+Today we're going to focus on *relevance*.
+
+
+** *3 QUALITIES* of an effective response email isible:
+#+HTML: <div class=icons>
+1. *Relevant* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/noun_502032_cc.png]]
+2. *Personal* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/flamenco-couple-dance_318-56562.jpg]]
+3. *Persuasive* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/smoker-004-512.png]]
+
+#+HTML: </div>
+*** Notes                :notes:noexport:
+In each session we'll discuss one of these qualities and how we can develop these qualities in our own emails
+
+** PRINCIPLE Writing with the reader in mind
+
+** Curiosity
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/videogame-brain-desire.png]]
+
+
+** The Curiosity Gap
+- need for closure
+- we don't like gaps in our knowledge
+
+** The Curiosity Gap
+- The curiosity gap is the space between a piece of information (*what we know*) and the missing information (*what we don't know*).
+
+
+*** Notes                                :notes:noexport:
+Humans have a natural desire for closure– we don't like having gaps in our knowledge. You can leverage this desire for closure by leaving your subject line open-ended so subscribers will be curious, like a cliffhanger that can only be satisfied by opening the email. You can make subscribers curious by asking a question (and answering it in your email), promising something interesting (like pictures or a surprise gift), or saying something that sounds strange or unusual.
+#+END_QUOTE
+
+** Incomplete information
+*A dad dressed as Darth Vader to wake up his son. The kid's reaction is pure "Star Wars."*
+
+** Incomplete information
+*A homeless man was tried for stealing $4.50 worth of food. Here's what the judges said.*
+
+** What we know
+*A homeless man was tried for stealing $4.50 worth of food.*
+
+** What we want to know
+*What the judges said*
+
+** How to create curiosity
+
+** Curiosity
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/curiosity-icon.jpg]]
+
+** A few ways among many:
+
+
+** Offer a benefit
+*Do You Know This #1 Fiction Writing Trick For Compelling Business Content?*
+
+** Raise a Question
+*Do You Truly Know How to Love Yourself?*
+
+** Raise a Question
+*What should your new password be?*
+
+** Raise a Question
+[[http://www.wordstream.com/images/curiosity-gap-betteridges-law-of-headlines.png]]
+
+** "You're making a mistake!"
+*5 Common Mental Errors That Sway You From Making Good Decisions*
+
+** "You're making a mistake!"
+*9 Landing Page Goofs That Make You Lose Business*
+
+** "You're making a mistake!"
+*10 Common Grammar Mistakes Even Smart People Make*
+
+** How to
+*How to write the highest-performing adwords ads ever*
+
+** how to write amazing headlines
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/curiosity-gap-upworthy-headline-formula.png]]
+
+
+** Homework
+
+1. *Send me 1-2 examples of outboud emails you've written that you feel are strong and 1-2 examples you think could be improved. (Due this Friday)*
+2. *Practice the Upworthy Method. For one email you write over the next week, write 25 variations on a headline and send them to me. (Due Monday)*
+3. For Angela: Can you write a "you're making a mistake" email that's on-brand for NLI?
+
+
+** The End
+
+* export settings                                          :ARCHIVE:noexport:
+#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='/Users/jay/Dropbox/web-design/custom-css/gmail.css' />
+#+OPTIONS:   H:6 num:nil toc:nil :nil @:t ::t |:t ^:t -:t f:t *:t <:t

@@ -1,0 +1,239 @@
+#+TITLE: Effective Emails: Week 3
+#+AUTHOR: Jay Dixit
+
+
+** Effective Emails
+
+#+HTML: <div class="splash-page">
+*Jay Dixit* \\
+[[http://www.storytelling.nyc][www.storytelling.nyc]] \\
+[[mailto:jay@storytelling.nyc][jay@storytelling.nyc]] \\
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/storytelling-nyc-logo-new-face.png]]
+
+
+#+HTML: </div>
+
+** *3 QUALITIES* of an effective response email
+
+1. *Relevant* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/noun_502032_cc.png]]
+2. *Personal* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/flamenco-couple-dance_318-56562.jpg]]
+3. *Persuasive* [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/smoker-004-512.png]]
+
+** *PERSUASIVE*
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/smoker-004-512.png]]
+
+** Agenda
+1. Storytelling
+2. A structure for a persuasive outbound sales email
+
+** Storytelling
+
+** QUESTION How to tell a good story?
+
+* The story
+
+** NYT on storytelling
+
+** A beginning, middle, and end
+[[/Users/jay/Dropbox/github/jay-org-html-slideshow/slideshows/WeWork/img/aristotle.png]] \\
+
+** What's miss--g?
+
+** The plot pyramid
+[[/Users/jay/Dropbox/storytelling-assets/images/freytag-pyramid-large-colorful.jpg]]
+
+
+** What's miss--g?
+
+
+** Goal
+
+#+BEGIN_QUOTE
+"When I used to teach creative writing, I would tell the students to make their characters want something right away---even if it's only a glass of water.
+
+Characters paralyzed by the meaninglessness of modern life still have to drink water from time to time. One of my students wrote a story about a nun who got a piece of dental floss stuck between her lower left molars, and who couldn't get it out all day long. I thought that was wonderful. The story dealt with issues a lot more important than dental floss, but what kept readers going was anxiety about when the dental floss would finally be removed.
+
+Nobody could read that story without fishing around in his mouth with a finger."
+---Kurt Vonnegut
+#+END_QUOTE
+
+** Goal
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+
+** Goal
+#+BEGIN_EXPORT HTML
+<div class="jayvideo">
+<video class="center" src="/Users/jay/Dropbox/storytelling-assets/Presto-Pixar.webmhd.webm" controls preload="auto"  ></video></div>
+#+END_EXPORT
+
+
+** Jay's Elements of *Storytelling*
+
+
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+
+
+** What else?
+#+BEGIN_EXPORT HTML
+<div class="jayvideo">
+<video class="center" src="/Users/jay/Dropbox/storytelling-assets/Presto-Pixar.webmhd.webm" controls preload="auto"  ></video></div>
+#+END_EXPORT
+
+
+
+** Obstacle
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+
+** Jay's Elements of *Storytelling*
+
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+
+
+
+** Stakes
+[[/Users/jay/Dropbox/storytelling-assets/images/cary-grant-gun-to-your-head.jpg]]
+
+** The Hangover
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-phone-call-stakes.jpg]]
+
+** The Hangover: What's the *goal?*
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-phone-call-stakes.jpg]]
+
+** The Hangover: What's the *goal?*
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-doug-car.png]]
+
+
+** The Hangover: What's the *goal?*
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-doug-hotel-2.png]]
+
+** The Hangover: What's the *goal?*
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-doug-rooftop-3.png]]
+
+
+
+
+
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-what-is-goal-2.jpg]]
+
+
+** The Hangover: What's the *obstacle?*
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-what-is-goal.jpg]]
+
+
+** The Hangover: What are the *stakes?*
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-phone-call-stakes.jpg]]
+
+
+
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-bride-and-family.png]]
+
+** The Hangover: What are the *stakes?*
+[[/Users/jay/Dropbox/storytelling-assets/images/hangover-bride-angry.png]]
+
+
+** Stakes
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+
+** Jay's Elements of *Storytelling*
+
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+
+
+** Strategies
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]
+
+
+** Strategies
+
+[[/Users/jay/Dropbox/storytelling-assets/Bourne-Identity-006.jpg]]
+
+** *How* will the character achieve their goal or escape their dilemma?
+
+[[/Users/jay/Dropbox/storytelling-assets/Bourne-Identity-006.jpg]]
+
+** Strategies
+
+#+BEGIN_EXPORT HTML
+<video class="center" src="/Users/jay/Dropbox/storytelling-assets/bourne/bourne-highlights.webm" controls preload></video>
+#+END_EXPORT
+
+** Jay's Elements of *Storytelling*
+
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+4. Strategies [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]
+
+** Outcome
+[[/Users/jay/Dropbox/storytelling-assets/images/success-outcome-victory-summit.jpg]]
+
+** Outcome
+
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/outcome.png]]
+
+** The Storytelling.NYC Method
+1. Goal [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/goal.png]]
+2. Obstacle [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/obstacle.png]]
+3. Stakes [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/stakes.png]]
+4. Strategies [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/strategies.png]]
+5. Outcome [[/Users/jay/Dropbox/github/org-html-webslides/assets/storytelling-icons/outcome.png]]
+
+
+** Google ad: Reunion
+
+#+BEGIN_EXPORT HTML
+<div class="jayvideo">
+<video class="center" src="/Users/jay/Dropbox/storytelling-assets/video/google-reunion.webmhd.webm" controls preload="auto" width="1024" height="576" ></video></div>
+#+END_EXPORT
+
+** Virtual Whiteboard: Reunion
+
+** *PERSUASIVE*
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/smoker-004-512.png]]
+** A structure for a persuasive email
+
+
+** Problem
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-problem.png]]
+
+** Agitation
+[[/Users/jay/Dropbox/storytelling-assets/images/3d-agitation.jpg]]
+
+** Agitation
+[[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-agitation-your-life-sucks.png]]
+
+** Solution
+[[/Users/jay/Dropbox/storytelling-assets/images/3d-solution.jpg]]
+
+** Solution
+[[/Users/jay/Dropbox/storytelling-assets/images/man-in-hole-solution.jpg]]
+
+** A structure for a persuasive email
+1. Problem [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-problem.png]]
+2. Agitation [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-agitation-your-life-sucks.png]]
+3. Solution [[/Users/jay/Dropbox/storytelling-assets/images/3d-solution.jpg]]
+
+** A structure for a persuasive email
+1. Problem [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-problem.png]]
+2. Agitation [[/Users/jay/Dropbox/github/org-html-webslides/assets/img/3d-agitation-your-life-sucks.png]]
+3. Solution [[/Users/jay/Dropbox/storytelling-assets/images/3d-solution.jpg]]
+4. Call to Action [[/Users/jay/Dropbox/storytelling-assets/images/call-to-action-icon.jpg]]
+
+** Virtual Whiteboard: Reunion
+
+
+* export settings                     :ARCHIVE:noexport:
+#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='/Users/jay/Dropbox/web-design/custom-css/gmail.css' />
+#+OPTIONS:  H:6 num:nil toc:nil :nil @:t ::t |:t ^:t -:t f:t *:t <:t

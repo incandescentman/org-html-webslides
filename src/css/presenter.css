@@ -89,9 +89,23 @@ a#presenter-elapsed-time-reset {
    width: 98%;
    font-size: 18pt;
    color: white;
+      font-size: 12pt;
+   text-align: left;
+   background:#fff;
+   color:#000;
+
 }
 
 #presenter-notes-container h1,#presenter-notes-container h2,#presenter-notes-container h3,#presenter-notes-container h4,#presenter-notes-container h5,#presenter-notes-container h6,#presenter-notes-container h7,#presenter-notes-container h8 {
    font-size: 12pt;
    text-align: left;
+   background:#fff;
+   color:#000;
+}
+
+
+.presenter-display .fullscreen img
+{
+      min-height: 0 !important;
+  min-width: 0;
 }

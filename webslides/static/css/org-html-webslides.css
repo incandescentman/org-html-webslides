@@ -1,4 +1,4 @@
-.darkbloom.full img, .darkbloom.full img p {
+.darkbloom.fullscreen img, .darkbloom.fullscreen img p {
   /* Set rules to fill background */
   min-height: 100% !important;
   min-width: 1024px;
@@ -18,13 +18,13 @@ opacity:1;
 
 }
 
-.slide.full img, .slide.full img p {
+.slide.fullscreen img, .slide.fullscreen img p {
   /* Set rules to fill background */
-  min-height: 100% !important;
+  min-height: 100%;
   min-width: 1024px;
 
   /* Set up proportionate scaling */
-  width: 100% !important;
+  width: 100%;
   height: auto;
 
   /* Set up positioning */
@@ -36,14 +36,48 @@ z-index:-150;
 }
 
 
-.full h1, .full h2, .full h3, .full h4, .full h5, .full h6, .full h7, .full h8
+.fullscreen h1, .fullscreen h2, .fullscreen h3, .fullscreen h4, .fullscreen h5, .fullscreen h6, .fullscreen h7, .fullscreen h8
 {
-color: #535353;
-text-shadow: 0 0 150px #FFF, 0 0 60px #FFF, 0 0 10px #FFF;
+
+    text-shadow: 0 0 200px #FFF, 0 0 1px #FFF, 0 0 1px #FFF;
 font-size:100px;
+
 }
 
-.full,.darkbloom
+
+.fulltop h1, .fulltop h2, .fulltop h3, .fulltop h4, .fulltop h5, .fulltop h6, .fulltop h7, .fulltop h8
+{
+
+  /* Set up positioning */
+  position: fixed;
+  top: 0px;
+  left:320px;
+  margin-top:10px;
+}
+
+.fullbottom h1, .fullbottom h2, .fullbottom h3, .fullbottom h4, .fullbottom h5, .fullbottom h6, .fullbottom h7, .fullbottom h8
+{
+
+  /* Set up positioning */
+  position: fixed;
+  bottom: 0px;
+  left:320px;
+  margin-bottom:10px;
+}
+
+
+.fullscreen
+{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: -151;
+}
+
+
+.darkbloom
 {
     position: absolute;
     left: 0px;
@@ -52,9 +86,22 @@ font-size:100px;
     height: 100%;
     background-color: #000000;
     z-index: -151;
+    color:#fff;
 }
 
-.full body, .darkbloom.full body
+.lightbloom
+{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: #FFF;
+    z-index: -151;
+}
+
+
+.darkbloom.fullscreen body
 {
 color:#535353;
 color:#FFF;
@@ -62,7 +109,7 @@ color:#FFF;
 }
 
 
-.full p, .full li, .darkbloom.full p, .darkbloom.full li
+.darkbloom.fullscreen p, .darkbloom.fullscreen li
 {
 color:#535353;
 color:#FFF;
@@ -118,7 +165,7 @@ h2,h3,h4 {
 
 
 blockquote p {
-    width: 50%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -197,7 +244,7 @@ blockquote p a {
 
 
 figure img {
-    max-height: 560px !important;
+
     -o-object-fit: contain;
     object-fit: contain;
 }
@@ -252,6 +299,28 @@ figure img {
     -o-object-fit: contain;
     max-height: 50%;
     object-fit: contain;
+}
+
+
+.full figure img {
+    -o-object-fit: contain;
+    max-height:8000px !important;
+    object-fit: contain;
+}
+
+
+
+.fullscreen figure img {
+    -o-object-fit: contain;
+    max-height: 1000% !important;
+    object-fit: contain;
+}
+
+
+.fullscreen p.image img, .fullscreen figure img
+
+{
+  margin-top:0;
 }
 
 
@@ -367,14 +436,10 @@ ol.org-ol
     margin-bottom: 1em;
 }
 
-.slide
-{margin-top:-2em;
-}
 
 
  h1,  h2,  h3
  {
-   margin-top:2em;
    font-size:200%;
 }
 
@@ -397,8 +462,7 @@ iframe
 figure img {
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
-    margin-top: 1em;
+margin-top: 1em;
     margin-bottom: 0;
 }
 
@@ -434,4 +498,73 @@ h1,h2,h3,h4,h5
 
 div.splash-page p strong {
     font-size: 150%;
+}
+
+
+
+
+h1 em, h2 em, h3 em {
+text-transform: uppercase;
+    letter-spacing: .2rem;
+    display:block;
+    font-size:50%;
+    color:#000;
+    font-weight:normal;
+    line-height:2;
+}
+
+h1 em:after, h2 em:after, h3 em:after {
+content:"\A";
+
+}
+
+blockquote:before
+             {
+	content: url(/Users/jay/Dropbox/github/org-html-webslides/assets/img/blockbga.png) !important;
+	margin-left: -70px !important;
+	display: inline !important;
+	float: left !important;
+}
+
+blockquote:after
+             {
+	content: url(/Users/jay/Dropbox/github/org-html-webslides/assets/img/blockbgb.png) !important;
+	position: absolute;
+	right: -60px;
+  bottom:0px;
+}
+
+
+.thoughtbubble p {
+  position: fixed;
+top:100px;
+text-align: left;
+margin-left:1.5em !important;
+font-size:300%;
+width:40% !important;
+line-height:1.5;
+font-weight:400;
+}
+
+
+.thoughtbubble.narrow p {
+  position: fixed;
+top:100px;
+text-align: left;
+margin-left:1em !important;
+font-size:300%;
+width:30% !important;
+line-height:1.5;
+font-weight:600;
+}
+
+
+
+
+.alignleft h1, .alignleft h2, .alignleft h3 {
+text-align: left;
+margin-left:0.7em !important;
+font-size:600%;
+width:50% !important;
+line-height:1.5;
 }
