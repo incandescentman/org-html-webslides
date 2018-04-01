@@ -12,7 +12,7 @@
   top: 0;
   left: 0;
 
-z-index:-150;
+
 opacity:0.5; /* for a dark layer */
 opacity:1;
 
@@ -31,7 +31,6 @@ opacity:1;
   position: fixed;
   top: 0;
   left: 0;
-
 z-index:-150;
 }
 
@@ -511,7 +510,7 @@ h1 em, h2 em, h3 em {
 text-transform: uppercase;
     letter-spacing: .2rem;
     display:block;
-    font-size:50%;
+    font-size:70%;
     color:#000;
     font-weight:normal;
     line-height:2;
@@ -550,6 +549,21 @@ width:40% !important;
 line-height:1.5;
 font-weight:400;
 }
+
+.thoughtbubbleright p {
+  position: fixed;
+  top:100px;
+  right:30px;
+margin-left:1.5em !important;
+font-size:300%;
+width:40% !important;
+line-height:1.5;
+font-weight:400;
+
+
+}
+
+
 
 
 .thoughtbubble.narrow p {
@@ -594,8 +608,83 @@ ul.org-ul li strong {
     undefined: undefined;
 }
 
-#presenter-next-slide figure img, #presenter-current-slide figure img, #presenter-current-slide .fullscreen img
+#presenter-next-slide figure img, #presenter-next-slide .fullscreen img, #presenter-next-slide .darkbloom img
 {
-  width:600px !important;
-  z-index:151 !important;
+z-index:161 !important;
+  position:relative;
+  right:0;
+  top:0;
+  width: 100% !important;
+  height: 1400px !important;
+  max-height:100%;
+
+}
+
+#presenter-current-slide figure img
+{
+  position:relative;
+  left:0px;
+  top:0 !important;
+  z-index:161 !important;
+  width: 200% !important;
+  height: 100% !important;
+  max-height:700px;
+}
+
+#presenter-current-slide .fullscreen img, #presenter-current-slide p img
+
+{
+  position:relative;
+  left:0px !important;
+  top:0 !important;
+  z-index:161 !important;
+  width: 200% !important;
+  height: 100% !important;
+  max-height:700px;
+}
+
+
+#presenter-current-slide .slide, #presenter-next-slide .slide
+{
+  margin-top:-250px;
+}
+
+
+
+
+#presenter-next-slide .lightbloom, #presenter-next-slide .fullscreen, #presenter-next-slide .lightbloom, #presenter-next-slide .darkbloom, #presenter-next-slide .fullscreen, #presenter-next-slide .darkbloom
+{z-index:200;}
+
+#presenter-current-slide .fullscreen, #presenter-current-slide .darkbloom, #presenter-current-slide .lightbloom
+{z-index:400;}
+
+#presenter-next-slide .slide.fullscreen img, #presenter-next-slide .slide.fullscreen img p
+{z-index:300;}
+
+#presenter-current-slide .slide.fullscreen img, #presenter-current-slide .slide.fullscreen img p
+{
+  z-index:500;
+}
+
+#presenter-current-slide p
+{z-index:600;}
+
+#presenter-current-slide > pre p
+
+{z-index:700;
+ color:red;}
+
+span.underline {
+    display: block;
+}
+
+
+#presenter-current-slide pre.example
+{
+  position:relative;
+  left:0px;
+  top:0 !important;
+
+  color:black;
+  z-index:700;
 }

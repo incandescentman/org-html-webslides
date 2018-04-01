@@ -83,21 +83,20 @@ a#presenter-elapsed-time-reset {
 #presenter-notes-container {
    position: absolute;
    overflow: auto;
-   top: 40%;
+   top: 30%;
    left: 10px;
-   height: 45%;
+   height: 55%;
    width: 98%;
-   font-size: 18pt;
    color: white;
-      font-size: 12pt;
+   font-size: 10pt;
    text-align: left;
    background:#fff;
    color:#000;
-
+   z-index:1000;
 }
 
 #presenter-notes-container h1,#presenter-notes-container h2,#presenter-notes-container h3,#presenter-notes-container h4,#presenter-notes-container h5,#presenter-notes-container h6,#presenter-notes-container h7,#presenter-notes-container h8 {
-   font-size: 12pt;
+   font-size: 10pt;
    text-align: left;
    background:#fff;
    color:#000;
@@ -106,6 +105,6 @@ a#presenter-elapsed-time-reset {
 
 .presenter-display .fullscreen img
 {
-      min-height: 0 !important;
+    min-height: 0 !important;
   min-width: 0;
 }
